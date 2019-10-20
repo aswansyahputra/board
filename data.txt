@@ -4,3 +4,9 @@
   cols: 8
   description: The dataset about chapter releases of One Piece
   type: table
+- path: mtcars
+  name: mtcars
+  rows: 32
+  cols: 11
+  description: The dataset about cars' profile
+  type: table
