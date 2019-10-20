@@ -1,0 +1,16 @@
+path:
+- data.csv
+- data.rds
+rows: 959
+cols: 8
+columns:
+  volume: character
+  chapter: numeric
+  japanese_title: character
+  romanized_title: character
+  viz_title: character
+  pages: numeric
+  release_date: Date
+  anime: character
+description: The dataset about chapter releases of One Piece
+type: table
