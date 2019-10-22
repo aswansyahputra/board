@@ -22,5 +22,5 @@ columns:
   tempo: numeric
   key_mode: character
   lyric: character
-description: The dataset about Iwan Fals songs features and lyrics
+description: The dataset about Iwan Fals songs features, descriptions, and lyrics
 type: table
