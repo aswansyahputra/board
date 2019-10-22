@@ -1,7 +1,7 @@
 path:
 - data.csv
 - data.rds
-rows: 2614
+rows: 86
 cols: 18
 columns:
   track_name: character
