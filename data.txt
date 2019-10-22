@@ -31,6 +31,6 @@
 - path: usedmotorcycles
   name: usedmotorcycles
   rows: 999
-  cols: 9
+  cols: 8
   description: The dataset about used motorcycles in Indonesia listed at carmudi.co.id
   type: table
