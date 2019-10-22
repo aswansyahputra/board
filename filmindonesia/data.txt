@@ -1,0 +1,21 @@
+path:
+- data.csv
+- data.rds
+rows: 3993
+cols: 13
+columns:
+  title: character
+  genre: character
+  year: integer
+  release_date: Date
+  colour: character
+  duration: numeric
+  classification: character
+  rating: numeric
+  producer: character
+  director: character
+  writer: character
+  actress: character
+  synopsis: character
+description: The dataset about Indonesian movies obtained from filmindonesia.or.id
+type: table
