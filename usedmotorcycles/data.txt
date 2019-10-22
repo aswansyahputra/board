@@ -2,10 +2,9 @@ path:
 - data.csv
 - data.rds
 rows: 999
-cols: 9
+cols: 8
 columns:
-  rowid: integer
-  year: character
+  year: numeric
   manufacturer: character
   type: character
   gearshift: character
