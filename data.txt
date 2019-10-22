@@ -10,3 +10,9 @@
   cols: 13
   description: The dataset about Indonesian movies obtained from filmindonesia.or.id
   type: table
+- path: bukuindonesia
+  name: bukuindonesia
+  rows: 493
+  cols: 14
+  description: The dataset about everlasting Indonesian books listed at Goodreads.com
+  type: table
