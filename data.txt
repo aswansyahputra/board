@@ -22,3 +22,9 @@
   cols: 18
   description: The dataset about Iwan Fals' songs features, descriptions, and lyrics
   type: table
+- path: usedcar
+  name: usedcar
+  rows: 30300
+  cols: 8
+  description: The dataset about used car in Indonesia listed at carmudi.co.id
+  type: table
