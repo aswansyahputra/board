@@ -20,5 +20,5 @@
   name: iwanfals
   rows: 86
   cols: 18
-  description: The dataset about Iwan Fals songs features and lyrics
+  description: The dataset about Iwan Fals songs features, descriptions, and lyrics
   type: table
