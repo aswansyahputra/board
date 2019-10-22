@@ -1,0 +1,1000 @@
+"rowid","year","manufacturer","type","gearshift","fuel","distance","city","price"
+1,"2016","Yamaha","NMax","Otomatis","Bensin",37000,"Bekasi",19.5
+2,"2014","Honda","Motorcycles Beat","Otomatis","Bensin",1,"Bekasi",11
+3,"2014","Yamaha","V-ixion","Manual","Bensin",42,"Bekasi",15
+4,"2012","Harley-Davidson","FL Dyna Switchback","Otomatis","Bensin",7000,"Yogyakarta",400
+5,"2018","Yamaha","Lexi","Otomatis","Bensin",18000,"Indonesia",15
+6,"2013","Yamaha","V-ixion","Manual","Bensin",41000,"Indonesia",12
+7,"2014","Honda","Motorcycles Beat Fi","Otomatis","Bensin",1,"Indonesia",10.5
+8,"2016","Yamaha","Nmax","Otomatis","Bensin",1,"Indonesia",24
+9,"2016","Yamaha","Mio M3","Otomatis","Bensin",1,"Indonesia",10.5
+10,"2012","Yamaha","Fino","Otomatis","Bensin",1,"Indonesia",11
+11,"2015","Honda","Motorcycles Cb 150R","Manual","Bensin",1,"Indonesia",15.9
+12,"2015","Honda","Motorcycles Vario","Otomatis","Bensin",1,"Indonesia",11.45
+13,"2011","Kawasaki","Ninja 250","Manual","Bensin",1,"Indonesia",28
+14,"2011","Honda","Motorcycles Scoopy","Otomatis","Bensin",1,"Indonesia",8.9
+15,"2006","Honda","Motorcycles Vario","Otomatis","Bensin",1,"Indonesia",7
+16,"2014","Honda","Motorcycles Supra X","Manual","Bensin",1,"Indonesia",9.45
+17,"2011","Honda","Motorcycles Cb 250","Manual","Bensin",1,"Indonesia",19
+18,"2017","Yamaha","Aerox","Otomatis","Bensin",1,"Indonesia",20.5
+19,"2018","Honda","Motorcycles Beat Street","Otomatis","Bensin",1,"Indonesia",15
+20,"2018","Honda","Motorcycles Supra X","Manual","Bensin",1,"Indonesia",13
+21,"2009","Honda","Motorcycles Vario","Otomatis","Bensin",1,"Indonesia",7
+22,"2012","Yamaha","V-Ixion","Manual","Bensin",1,"Indonesia",11.5
+23,"2018","Honda","Motorcycles Beat","Otomatis","Bensin",1,"Indonesia",13.9
+24,"2015","Yamaha","V-Ixion","Manual","Bensin",1,"Indonesia",15.9
+25,"2013","Honda","Motorcycles Vario","Otomatis","Bensin",1,"Indonesia",8.7
+26,"2015","Honda","Motorcycles Cb 150R","Manual","Bensin",1,"Indonesia",16.2
+27,"2013","Yamaha","Mio Gt","Otomatis","Bensin",1,"Indonesia",7.8
+28,"2017","Honda","Motorcycles Vario Techno Fi","Otomatis","Bensin",1,"Indonesia",16
+29,"2015","Yamaha","Nmax","Otomatis","Bensin",1,"Indonesia",22
+30,"2019","Honda","Motorcycles Vario Techno Fi","Otomatis","Bensin",1,"Indonesia",20
+31,"2018","Yamaha","Mio M3","Otomatis","Bensin",1,"Indonesia",11
+32,"2013","Yamaha","Byson","Manual","Bensin",1,"Indonesia",8.7
+33,"2013","Kawasaki","Klx 150","Manual","Bensin",1,"Indonesia",18.8
+34,"1998","Yamaha","Crypton","Manual","Bensin",1,"Indonesia",4.3
+35,"2018","Honda","Motorcycles Scoopy","Otomatis","Bensin",1,"Indonesia",18.2
+36,"2011","Honda","Motorcycles Mega Pro","Manual","Bensin",1,"Indonesia",11
+37,"2018","Honda","Motorcycles Cb 150R","Manual","Bensin",1,"Indonesia",25
+38,"2017","Yamaha","Nmax","Otomatis","Bensin",1,"Indonesia",25.5
+39,"2017","Honda","Motorcycles Scoopy","Otomatis","Bensin",1,"Indonesia",16.8
+40,"2017","Yamaha","Yzf R15","Manual","Bensin",1,"Indonesia",25.3
+41,"2018","Yamaha","Lexi","Otomatis","Bensin",1,"Indonesia",20
+42,"2013","Honda","Motorcycles Vario Techno Fi","Otomatis","Bensin",1,"Indonesia",11
+43,"2018","Yamaha","Mio S","Otomatis","Bensin",1,"Indonesia",12.5
+44,"2010","Yamaha","Jupiter Mx","Manual","Bensin",1,"Indonesia",6.8
+45,"2017","Yamaha","Fino","Otomatis","Bensin",1,"Indonesia",11
+46,"2018","Honda","Motorcycles Cb 150R","Manual","Bensin",1,"Indonesia",25.5
+47,"2010","Yamaha","V-Ixion","Manual","Bensin",1,"Indonesia",10.3
+48,"2018","Honda","Motorcycles Vario Techno 150","Otomatis","Bensin",1,"Indonesia",17.6
+49,"2018","Yamaha","Lexi","Otomatis","Bensin",1,"Indonesia",18.6
+50,"2018","Honda","Motorcycles Scoopy Esp","Otomatis","Bensin",1,"Indonesia",18
+51,"2015","Yamaha","Byson","Manual","Bensin",1,"Indonesia",12.5
+52,"2013","Honda","Motorcycles Vario","Otomatis","Bensin",1,"Indonesia",9
+53,"2012","Honda","Motorcycles Vario","Otomatis","Bensin",1,"Indonesia",8.3
+54,"2018","Yamaha","Nmax","Otomatis","Bensin",1,"Indonesia",28.7
+55,"2014","Kawasaki","Klx 150","Manual","Bensin",1,"Indonesia",20.5
+56,"2015","Yamaha","V-Ixion","Manual","Bensin",1,"Indonesia",15.5
+57,"2008","Yamaha","V-Ixion","Manual","Bensin",1,"Indonesia",12.2
+58,"2003","Kawasaki","Klx 150","Manual","Bensin",1,"Indonesia",12
+59,"2018","Suzuki","Gsx S 150","Manual","Bensin",1,"Indonesia",15.75
+60,"2002","Yamaha","Rx King","Manual","Bensin",1,"Indonesia",7.6
+61,"2011","Yamaha","Vega R","Manual","Bensin",1,"Indonesia",6.2
+62,"2014","Honda","Motorcycles Cb 150R","Manual","Bensin",1,"Indonesia",12.5
+63,"2017","Honda","Motorcycles Vario Techno Fi","Otomatis","Bensin",1,"Indonesia",15.5
+64,"2018","Honda","Motorcycles Vario Techno Fi","Otomatis","Bensin",1,"Indonesia",17.8
+65,"2017","Yamaha","Aerox 155","Otomatis","Bensin",1,"Indonesia",18.1
+66,"2017","Honda","Motorcycles Blade 125","Manual","Bensin",1,"Indonesia",11.5
+67,"2010","Kawasaki","Ninja 250","Manual","Bensin",1,"Indonesia ",28.5
+68,"2014","Honda","Motorcycles Supra X","Manual","Bensin",1,"Indonesia",9.3
+69,"2017","Yamaha","X-Ride","Otomatis","Bensin",1,"Indonesia",10.9
+70,"2009","Kawasaki","Ninja 250","Manual","Bensin",1,"Indonesia",24
+71,"2018","Yamaha","Mio S","Otomatis","Bensin",1,"Indonesia",9.9
+72,"2018","Yamaha","Mio M3","Otomatis","Bensin",1,"Indonesia",10.2
+73,"2019","Honda","Motorcycles Supra Gtr","Manual","Bensin",1,"Indonesia",16.8
+74,"2019","Honda","Motorcycles Pcx","Otomatis","Bensin",1,"Indonesia",27.5
+75,"2013","Yamaha","V-Ixion","Manual","Bensin",1,"Indonesia",14.15
+76,"2019","Honda","Motorcycles Vario Techno Fi","Otomatis","Bensin",1,"Indonesia",18.75
+77,"2019","Honda","Motorcycles Sonic","Manual","Bensin",1,"Indonesia",17.3
+78,"2017","Honda","Motorcycles Supra Gtr","Manual","Bensin",1,"Indonesia",14.5
+79,"2016","Yamaha","Yzf R25","Manual","Bensin",1,"Indonesia",33.2
+80,"2014","Yamaha","V-Ixion","Manual","Bensin",1,"Indonesia",12.8
+81,"2006","Honda","Motorcycles Supra X","Manual","Bensin",1,"Indonesia",6.9
+82,"2018","Honda","Motorcycles Cbr 150R","Manual","Bensin",1,"Indonesia",26.5
+83,"2014","Honda","Motorcycles Cb 150R","Manual","Bensin",1,"Indonesia",14.8
+84,"2008","Kawasaki","Ninja 250","Manual","Bensin",1,"Indonesia",24
+85,"2017","Yamaha","X-Ride Led","Otomatis","Bensin",1,"Indonesia",11.5
+86,"2015","Yamaha","Vega R","Manual","Bensin",1,"Indonesia",7.5
+87,"2013","Kawasaki","Ninja 250","Manual","Bensin",1,"Indonesia",43
+88,"2011","Honda","Motorcycles Mega Pro","Manual","Bensin",50000,"Indonesia",5
+89,"2017","Yamaha","X-MAX","Otomatis","Bensin",14000,"Kota Jakarta Barat",48
+90,"2016","Kawasaki","Ninja","Manual","Bensin",4665,"Indonesia",45
+91,"2013","Kawasaki","Ninja","Manual","Bensin",23000,"Indonesia",36
+92,"2011","Kawasaki","Ninja","Manual","Bensin",20000,"Indonesia",18
+93,"2014","Yamaha","YZF R25","Manual","Bensin",13900,"Indonesia",35
+94,"2012","Honda","Motorcycles Vario Techno","Manual","Bensin",418318,"Indonesia",8.8
+95,"2017","Honda","Motorcycles CBR cbr150r","Manual","Bensin",5000,"Indonesia",23
+96,"2014","Yamaha","YZF R25","Manual","Bensin",14000,"Indonesia",35
+97,"2013","Kawasaki","Ninja","Manual","Bensin",7500,"Kota Jakarta Selatan",36
+98,"2015","Harley-Davidson","Touring","Manual","Bensin",4400,"Indonesia",700
+99,"2016","Yamaha","Soul GT 125","Otomatis","Bensin",22000," Indonesia",3
+100,"2018","Kawasaki","Z 250","Manual","Bensin",15000,"Bekasi",48.5
+101,"2014","Honda","Motorcycles Verza","Manual","Bensin",55000,"Indonesia",10
+102,"2017","Honda","Motorcycles Beat","Otomatis","Bensin",85137,"Indonesia",7.1
+103,"2007","Yamaha","Vega R","Manual","Bensin",1e+05,"Tangerang Selatan",3.7
+104,"2017","Yamaha","Fino","Otomatis","Bensin",1,"Kota Jakarta Timur",12.25
+105,"2015","Yamaha","Soul new soul gt","Otomatis","Bensin",45000,"Mojokerto",9.5
+106,"2018","Yamaha","NMax","Otomatis","Bensin",4000,"Kota SBY",78
+107,"2015","Honda","Motorcycles CBR moge","Otomatis","Bensin",1900,"Indonesia",16
+108,"2014","Yamaha","YZF","Manual","Bensin",10000,"Indonesia",35
+109,"2017","Ducati","800","Manual","Bensin",200,"Indonesia",340
+110,"2014","Honda","Motorcycles CB","Manual","Solar",13000,"Indonesia",12.5
+111,"2010","Honda","Motorcycles Vario","Otomatis","Bensin",50000,"Indonesia",6.45
+112,"2016","Yamaha","Aerox","Otomatis","Bensin",1,"Indonesia",13.5
+113,"2010","Yamaha","Mio Soul","Otomatis","Bensin",1,"Indonesia",4
+114,"2016","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",13.3
+115,"2017","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",13.3
+116,"2012","Yamaha","Vega Zr","Manual","Bensin",1,"Indonesia",3.9
+117,"2015","Yamaha","V-Ixion","Manual","Bensin",1,"Indonesia",15
+118,"2011","Yamaha","Mio","Otomatis","Bensin",1,"Indonesia",4
+119,"2014","Honda","Motorcycles Tiger Revo","Manual","Bensin",1,"Indonesia",15
+120,"2011","Suzuki","Spin","Otomatis","Bensin",1,"Indonesia",3.5
+121,"2018","Yamaha","Aerox","Otomatis","Bensin",8000,"Depok",25
+122,"2015","Kawasaki","Ninja KRR","Manual","Bensin",12200,"Indonesia",26
+123,"2016","Yamaha","NMax","Otomatis","Bensin",36600,"Indonesia",21
+124,"2014","Yamaha","YZF","Manual","Bensin",5849,"Kota Jakarta Timur",16
+125,"2018","Yamaha","Aerox S","Otomatis","Bensin",15000,"Indonesia",18.6
+126,"2007","Yamaha","RX King 135 new","Manual","Bensin",14979,"Madiun",29.5
+127,"2018","Honda","Motorcycles Beat ESP CBS","Otomatis","Bensin",1300,"Indonesia",13.8
+128,"2014","Yamaha","V-ixion New Lightning","Manual","Bensin",67000,"Indonesia",11
+129,"2011","Honda","Motorcycles Beat","Otomatis","Bensin",35000,"Indonesia",9
+130,"2017","Kawasaki","Ninja 250R Fi","Manual","Bensin",8000,"Indonesia",45
+131,"2013","Honda","Motorcycles Beat Fi","Otomatis","Bensin",32175,"Indonesia",10
+132,"1952","BSA","350","Manual","Bensin",20000,"Kota Jakarta Timur",140
+133,"2017","Kawasaki","KLX 150 BF","Manual","Bensin",11210,"Indonesia",27
+134,"2018","Yamaha","YZF R15","Manual","Bensin",7000,"Kota Jakarta Timur",25
+135,"2017","Yamaha","YZF R15","Manual","Bensin",5000,"Indonesia",24
+136,"2015","Suzuki","Satria Fu","Manual","Bensin",1,"Indonesia",12.5
+137,"2017","Yamaha","Nmax Abs","Otomatis","Bensin",1,"Indonesia",25
+138,"2011","Yamaha","Vega Zr","Manual","Bensin",1,"Indonesia",6.5
+139,"2017","Yamaha","Mio Z","Otomatis","Bensin",1,"Indonesia",10.3
+140,"2016","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",9
+141,"2018","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",10.5
+142,"2018","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",12.5
+143,"2018","Honda","Motorcycles Sonic R","Manual","Bensin",1,"Indonesia",14.5
+144,"2018","Yamaha","Yzf R15 Vva","Manual","Bensin",1,"Indonesia",28.5
+145,"2018","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",12.5
+146,"2017","Honda","Motorcycles Cb 150R","Manual","Bensin",1,"Indonesia",16.5
+147,"2019","Yamaha","Lexi","Otomatis","Bensin",1,"Indonesia",17
+148,"2012","Kawasaki","Ninja 250 Fi","Manual","Bensin",1,"Indonesia",40
+149,"2018","Suzuki","Nex Ii","Otomatis","Bensin",1,"Indonesia",10
+150,"2014","Honda","Motorcycles Scoopy Fi","Otomatis","Bensin",1,"Indonesia",8.5
+151,"2018","Honda","Motorcycles Supra Gtr","Manual","Bensin",1,"Indonesia",15
+152,"2017","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",12.5
+153,"2015","Honda","Motorcycles Scoopy Fi","Otomatis","Bensin",1,"Indonesia",7
+154,"2018","Yamaha","Nmax","Otomatis","Bensin",1,"Indonesia",25.5
+155,"2018","Yamaha","Fino 125","Otomatis","Bensin",1,"Indonesia",13.5
+156,"2012","Kawasaki","Er-6F","Manual","Bensin",1,"Indonesia",68.5
+157,"2019","Yamaha","Freego","Otomatis","Bensin",1,"Indonesia",17.5
+158,"2018","Honda","Motorcycles Cbr 150R","Manual","Bensin",1,"Indonesia",24
+159,"2019","Yamaha","Mio S","Otomatis","Bensin",1,"Indonesia",10.5
+160,"2018","Suzuki","Smash 110","Manual","Bensin",1,"Indonesia",8.25
+161,"2019","Honda","Motorcycles Scoopy Esp","Otomatis","Bensin",1,"Indonesia",17.5
+162,"2018","Honda","Motorcycles Vario 150","Otomatis","Bensin",1,"Indonesia",16.8
+163,"2018","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",12.5
+164,"2016","Honda","Motorcycles Revo Fi","Manual","Bensin",1,"Indonesia",7.5
+165,"2014","Honda","Motorcycles Beat Fi","Otomatis","Bensin",1,"Indonesia",7
+166,"2019","Honda","Motorcycles Vario 150","Otomatis","Bensin",1,"Indonesia",17.8
+167,"2014","Honda","Motorcycles CBR","Manual","Bensin",72000,"Indonesia",19
+168,"2017","Yamaha","X-MAX","Otomatis","Bensin",5000,"Indonesia",49
+169,"2016","Kawasaki","Ninja 250cc SE KRT","Manual","Bensin",30000,"Indonesia",45
+170,"2017","Yamaha","N-Max Non-ABS","Otomatis","Bensin",4700,"Kota Jakarta Timur",22
+171,"2016","Kawasaki","Ninja 250FI","Manual","Bensin",12000,"Indonesia",48
+172,"2012","Honda","Motorcycles Spacy","Otomatis","Bensin",55000,"Bojonegoro",8.5
+173,"2018","Yamaha","NMax","Otomatis","Bensin",8825,"Indonesia",24
+174,"2006","Yamaha","Scorpio modif Triump","Manual","Bensin",1e+05,"Bandung",26
+175,"2013","Kawasaki","Ninja RR 150","Manual","Bensin",39000,"Indonesia",22
+176,"2014","Honda","Motorcycles CBR150cc","Manual","Bensin",2791,"Medan",24
+177,"2016","Kawasaki","Ninja 250R Fi","Manual","Bensin",15000,"Indonesia",43
+178,"2016","Kawasaki","Ninja 250 RR Mono","Manual","Bensin",5,"Kota Bks",26
+179,"2015","Honda","Motorcycles Vario iss fi 150","Otomatis","Bensin",55000,"Indonesia",13.2
+180,"2015","Harley-Davidson","Street XG500","Otomatis","Bensin",1500,"Bekasi",220
+181,"2008","Kawasaki","Ninja 250R karbu","Manual","Bensin",61000,"Indonesia",28
+182,"2018","Yamaha","Aerox 155","Otomatis","Bensin",10000,"Tangerang Selatan",23
+183,"2015","Honda","Motorcycles Beat","Otomatis","Bensin",1,"Indonesia",11
+184,"2012","Honda","Motorcycles Beat","Otomatis","Bensin",1,"Indonesia",8.2
+185,"2014","Kawasaki","Ninja 250","Manual","Bensin",1,"Indonesia",41
+186,"2012","Honda","Motorcycles Vario","Otomatis","Bensin",1,"Indonesia",9
+187,"2016","Yamaha","Byson","Manual","Bensin",1,"Indonesia",12.8
+188,"2012","Yamaha","Mio J","Otomatis","Bensin",1,"Indonesia",6.9
+189,"2010","Yamaha","Mio","Otomatis","Bensin",1,"Indonesia",5.5
+190,"2018","Yamaha","Aerox","Otomatis","Bensin",1,"Indonesia",18.85
+191,"2018","Yamaha","Nmax","Otomatis","Bensin",1,"Indonesia",26.5
+192,"2013","Honda","Motorcycles Scoopy","Otomatis","Bensin",1,"Indonesia",11.35
+193,"2016","Honda","Motorcycles Scoopy","Otomatis","Bensin",1,"Indonesia",13.8
+194,"2016","Yamaha","Nmax","Otomatis","Bensin",1,"Indonesia",24.5
+195,"2009","Honda","Motorcycles Supra","Manual","Bensin",1,"Indonesia ",6.5
+196,"2012","Honda","Motorcycles Spacy","Otomatis","Bensin",1,"Indonesia",8.2
+197,"2017","Honda","Motorcycles Cbr 250R","Manual","Bensin",1,"Indonesia",52
+198,"2014","Yamaha","V-Ixion","Manual","Bensin",1,"Indonesia",15.5
+199,"2015","Honda","Motorcycles Scoopy","Otomatis","Bensin",1,"Indonesia",13.5
+200,"2016","Kawasaki","Ninja 250","Manual","Bensin",1,"Indonesia",41.5
+201,"2018","Honda","Motorcycles Pcx","Otomatis","Bensin",1,"Indonesia",26.5
+202,"2015","Honda","Motorcycles Vario Techno 150","Otomatis","Bensin",1,"Indonesia",16.5
+203,"2019","Yamaha","Lexi","Otomatis","Bensin",1,"Indonesia",19.5
+204,"2016","Yamaha","Nmax","Otomatis","Bensin",1,"Indonesia",22.3
+205,"2018","Yamaha","Aerox","Otomatis","Bensin",1,"Indonesia",18.9
+206,"2009","Suzuki","Skydrive","Otomatis","Bensin",1,"Indonesia",4.5
+207,"2013","Suzuki","Hayate","Otomatis","Bensin",1,"Indonesia",7.5
+208,"2015","Honda","Motorcycles Scoopy Fi","Otomatis","Bensin",1,"Indonesia",12.45
+209,"2016","Piaggio","Sprint","Otomatis","Bensin",1,"Indonesia",38.65
+210,"2015","Yamaha","V-ixion New Advance","Manual","Bensin",43000,"Indonesia",14
+211,"2019","Honda","Motorcycles Vario Techno 150","Otomatis","Bensin",1,"Indonesia",18
+212,"2019","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",13
+213,"2018","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",13.5
+214,"2018","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",13
+215,"2019","Honda","Motorcycles Beat Street","Otomatis","Bensin",1,"Indonesia",14
+216,"2013","Honda","Motorcycles Cb 150R","Manual","Bensin",1,"Indonesia",10.5
+217,"2018","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",10.5
+218,"2012","Honda","Motorcycles Vario Absolute","Otomatis","Bensin",1,"Indonesia",8.1
+219,"2018","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",11.5
+220,"2018","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",12.7
+221,"2016","Yamaha","Nmax","Otomatis","Bensin",1,"Indonesia",20
+222,"2015","Yamaha","Mio","Otomatis","Bensin",32000,"Kota Jakarta Timur",8
+223,"2018","Kawasaki","W 175 SE","Manual","Bensin",7300,"Indonesia",26
+224,"2018","Cleveland","CycleWerks THA HEIST","Manual","Bensin",1000,"Tangerang",55
+225,"2004","Yamaha","RX135","Manual","Bensin",165030,"Madiun",24.5
+226,"2013","Honda","Motorcycles Revo","Manual","Bensin",30000,"Bandung",6
+227,"2011","Yamaha","V-ixion","Manual","Bensin",65812,"Indonesia",8
+228,"2016","Yamaha","YZF R1M","Otomatis","Bensin",2900,"Tangerang",785
+229,"2004","Harley-Davidson","Ultra Classic","Manual","Bensin",40000,"Indonesia",330
+230,"2015","Honda","Motorcycles Beat","Otomatis","Bensin",7612,"Indonesia",5.7
+231,"1995","Harley-Davidson","Street fatboy","Manual","Bensin",30000,"Kota Jakarta Pusat",175
+232,"2015","Honda","Motorcycles Vario All New Tec...","Otomatis","Bensin",20018,"Jakarta Timur",13.5
+233,"2015","Honda","Motorcycles Revo CW","Manual","Bensin",23000,"Tangerang",8
+234,"2016","Honda","Motorcycles Sonic Sport","Manual","Bensin",20000,"Indonesia",14
+235,"2013","Honda","Motorcycles CB150R","Manual","Bensin",72000,"Indonesia",11
+236,"2018","Yamaha","NMax","Otomatis","Bensin",2400,"Malang",26
+237,"2016","Honda","Motorcycles CB","Manual","Bensin",40000,"Indonesia",14
+238,"2012","Yamaha","Scorpio","Manual","Bensin",1e+05,"Jalan Haji Adam Malik",19.5
+239,"2014","Honda","Motorcycles CBR 150 R","Manual","Bensin",40000,"Depok",15
+240,"2016","Yamaha","YZF R15","Manual","Bensin",10579,"Tangerang",18
+241,"2017","Kawasaki","Ninja 250 Fi ABS","Manual","Bensin",7015,"Indonesia",50
+242,"2018","Honda","Motorcycles PCX cbs","Otomatis","Bensin",9000,"Bandung",28
+243,"2013","Honda","Motorcycles Cb 150","Manual","Bensin",1,"Indonesia",12.5
+244,"2016","Honda","Motorcycles Scoopy Esp","Otomatis","Bensin",1,"Indonesia",15
+245,"2014","Honda","Motorcycles Scoopy Esp","Otomatis","Bensin",1,"Indonesia",12
+246,"2018","Honda","Motorcycles Scoopy Esp","Otomatis","Bensin",1,"Indonesia",18.5
+247,"2011","Honda","Motorcycles Beat","Otomatis","Bensin",1,"Indonesia",7.5
+248,"2017","Honda","Motorcycles Scoopy Esp","Otomatis","Bensin",1,"Indonesia",17.5
+249,"2006","Yamaha","Jupiter","Manual","Bensin",1,"Indonesia",6.75
+250,"2018","Honda","Motorcycles Supra Gtr","Manual","Bensin",1,"Indonesia",17
+251,"2019","Honda","Motorcycles Scoopy Esp","Otomatis","Bensin",1,"Indonesia",19
+252,"2016","Yamaha","Mx King","Manual","Bensin",1,"Indonesia",15.5
+253,"2013","Honda","Motorcycles Scoopy Fi","Otomatis","Bensin",1,"Indonesia",11
+254,"2015","Honda","Motorcycles Vario Techno 150","Otomatis","Bensin",1,"Indonesia",15
+255,"2017","Honda","Motorcycles Scoopy Esp","Otomatis","Bensin",1,"Indonesia",16
+256,"2019","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",16
+257,"2014","Yamaha","Mio Gt","Manual","Bensin",1,"Indonesia",9
+258,"2009","Kawasaki","Ninja 250R","Manual","Bensin",35000,"Indonesia",30
+259,"2017","Yamaha","NMax","Otomatis","Bensin",45000,"Kota Tgr. Sel.",20.75
+260,"2011","Piaggio","Vespa","Otomatis","Bensin",22000,"Indonesia",35
+261,"2018","Yamaha","NMax","Manual","Bensin",8094,"Medan",26.6
+262,"2018","Yamaha","Lexi S","Otomatis","Bensin",7700,"Bekasi",17.5
+263,"2013","Kawasaki","Ninja 250R Fi","Manual","Bensin",12000,"Indonesia",41.5
+264,"2013","Honda","Motorcycles CB 150R","Manual","Bensin",18000,"Kota Jakarta Barat",10.3
+265,"2016","Yamaha","NMax","Otomatis","Bensin",20000,"Indonesia",19.75
+266,"2017","Yamaha","N-Max","Otomatis","Bensin",39000,"Indonesia",20.9
+267,"1976","Piaggio","Sprint","Manual","Bensin",2000,"Gianyar",9
+268,"2018","Yamaha","Mio S","Otomatis","Bensin",4000,"Kota Jakarta Timur",10.5
+269,"2012","Yamaha","Byson Karburator","Manual","Bensin",345,"Indonesia",17
+270,"2010","Suzuki","Skywave","Otomatis","Bensin",50000,"Jakarta Selatan",7
+271,"2009","Honda","Motorcycles Vario techno","Otomatis","Bensin",89000,"Indonesia",7.12
+272,"1976","Piaggio","Sprint Bagol","Manual","Bensin",1e+05,"Indonesia",21.5
+273,"2010","Yamaha","Vega ZR","Manual","Bensin",80000,"Indonesia",3.6
+274,"2014","Kawasaki","Ninja 150RR","Manual","Bensin",22000,"Kota Jakarta Timur",25.5
+275,"2016","Honda","Motorcycles CBR All New 150R","Manual","Bensin",27000,"Indonesia",19.5
+276,"2017","Honda","Motorcycles Scoopy","Otomatis","Bensin",13000,"Serang",13.95
+277,"2005","Suzuki","Satria hiu","Manual","Bensin",50000,"Jl. Sultan Iskandar Muda",15
+278,"2011","Harley-Davidson","Ultra","Manual","Bensin",18711,"Bekasi",465
+279,"2016","Kawasaki","KLX BF","Manual","Bensin",20000,"Indonesia",22
+280,"2009","Honda","Motorcycles Blade 110 repsol","Manual","Bensin",64000,"Indonesia",5.1
+281,"2018","Yamaha","X-MAX","Otomatis","Bensin",3128,"Indonesia",50
+282,"2018","Yamaha","MT-25","Manual","Bensin",2200,"Jakarta Timur",45
+283,"2011","Piaggio","Liberty S 100","Otomatis","Bensin",40000,"Indonesia",12.5
+284,"2012","Kawasaki","Versys","Manual","Bensin",29520,"Indonesia",100
+285,"2017","Yamaha","NMax Abs","Otomatis","Bensin",11900,"Indonesia",21.5
+286,"2017","Kawasaki","KLX 150","Manual","Bensin",14000,"Indonesia",20
+287,"2012","Kawasaki","Ninja","Manual","Bensin",19000,"Kabupaten Sleman",47
+288,"2018","Kawasaki","D-Tracker 150","Manual","Bensin",7534,"Indonesia",28
+289,"2016","Yamaha","YZF R15","Manual","Bensin",32400,"Indonesia",18
+290,"2014","Yamaha","Byson","Manual","Bensin",39000,"Indonesia",12
+291,"2016","Honda","Motorcycles CBR All New 150R","Manual","Bensin",10000,"Indonesia",20.5
+292,"2019","Honda","Motorcycles PCX All New 150 Fi","Otomatis","Bensin",4936,"Indonesia",29.5
+293,"2017","Yamaha","YZF R15","Manual","Bensin",14000,"Indonesia",21
+294,"1996","Suzuki","GSX","Manual","Bensin",35000,"Sukabumi",50
+295,"2014","Kawasaki","Ninja","Manual","Bensin",120,"Indonesia",38
+296,"2016","Honda","Motorcycles Vario","Otomatis","Bensin",19972,"Cimenyan",16.2
+297,"2008","Harley-Davidson","Street SG","Manual","Bensin",17000,"Bogor",245
+298,"2006","Yamaha","Mio sporty carbu","Otomatis","Bensin",25000,"Indonesia",4.8
+299,"2018","Suzuki","GSX-R","Manual","Bensin",22000,"Indonesia",18
+300,"2005","Yamaha","Mio","Otomatis","Bensin",8000,"Indonesia",4.65
+301,"2016","Yamaha","Nmax","Otomatis","Bensin",1,"Indonesia",21.3
+302,"2017","Yamaha","Aerox","Otomatis","Bensin",1,"Indonesia",18
+303,"2018","Yamaha","Nmax Abs","Otomatis","Bensin",1,"Indonesia",25.85
+304,"2010","Yamaha","V-Ixion","Manual","Bensin",1,"Indonesia",9.2
+305,"2018","Yamaha","Lexi","Otomatis","Bensin",1,"Indonesia",16.85
+306,"2015","Honda","Motorcycles Vario Techno 150","Otomatis","Bensin",1,"Indonesia",14.9
+307,"2016","Honda","Motorcycles Cb 150R","Manual","Bensin",1,"Indonesia",18.8
+308,"2010","Yamaha","Scorpio Z","Manual","Bensin",1,"Indonesia",16.5
+309,"2017","Honda","Motorcycles Vario Techno 150","Otomatis","Bensin",1,"Indonesia",17.8
+310,"2014","Honda","Motorcycles Beat Fi","Otomatis","Bensin",1,"Indonesia",8.85
+311,"2012","Honda","Motorcycles Beat Fi","Otomatis","Bensin",1,"Indonesia",8
+312,"2018","Honda","Motorcycles Vario Techno Fi","Otomatis","Bensin",1,"Indonesia",16.4
+313,"2015","Honda","Motorcycles Vario Techno Fi","Otomatis","Bensin",1,"Indonesia",12
+314,"2017","Honda","Motorcycles Sonic R","Otomatis","Bensin",1,"Indonesia",17
+315,"2018","Yamaha","Vega Force","Manual","Bensin",1,"Indonesia",10.9
+316,"2017","Honda","Motorcycles Scoopy Fi","Otomatis","Bensin",1,"Indonesia",17.5
+317,"2010","Yamaha","Jupiter Z","Manual","Bensin",1,"Indonesia",5.9
+318,"2011","Honda","Motorcycles Spacy Helm In","Otomatis","Bensin",1,"Indonesia",7
+319,"2014","Yamaha","V-Ixion Lightning","Manual","Bensin",1,"Indonesia",14.75
+320,"2008","Kawasaki","Ninja 250","Manual","Bensin",1,"Indonesia",42
+321,"2017","Honda","Motorcycles Beat Fi","Otomatis","Bensin",1,"Indonesia",13.8
+322,"2018","Honda","Motorcycles Vario 150","Otomatis","Bensin",1,"Indonesia",21
+323,"2009","Yamaha","V-Ixion","Manual","Bensin",1," Indonesia",11.8
+324,"2007","Suzuki","Spin Cw","Otomatis","Bensin",1,"Indonesia",4.5
+325,"2018","Yamaha","V-Ixion R","Manual","Bensin",1,"Indonesia",20
+326,"2011","Honda","Motorcycles Supra X","Manual","Bensin",1,"Indonesia",10.8
+327,"2016","Honda","Motorcycles Cbr 150R","Manual","Bensin",1,"Indonesia",24.5
+328,"2015","Yamaha","NMax abs","Otomatis","Bensin",8900,"Indonesia",22
+329,"2013","Kawasaki","Ninja sport","Manual","Bensin",55800,"Indonesia",41
+330,"2008","Yamaha","Mio sporty carbu","Otomatis","Bensin",20000,"Indonesia",4.5
+331,"2017","Yamaha","V-Ixion Lightning","Manual","Bensin",1,"Indonesia",18.45
+332,"2017","Honda","Motorcycles Beat Street","Otomatis","Bensin",1,"Indonesia",14.65
+333,"2016","Yamaha","Yzf R15","Manual","Bensin",1,"Indonesia",19.55
+334,"2019","Yamaha","Lexi S","Otomatis","Bensin",1,"Indonesia",17.75
+335,"2014","Honda","Motorcycles Spacy Helm In","Otomatis","Bensin",1,"Indonesia",8.15
+336,"2010","Yamaha","Jupiter Z","Manual","Bensin",1,"Indonesia",6.35
+337,"2014","Honda","Motorcycles Scoopy Fi","Otomatis","Bensin",1,"Indonesia",11.4
+338,"2013","Yamaha","V-Ixion","Manual","Bensin",1,"Indonesia",11.65
+339,"2014","Suzuki","Satria Fu","Manual","Bensin",1,"Indonesia",9.55
+340,"2009","Kawasaki","Ninja 250","Manual","Bensin",1,"Indonesia",24.2
+341,"2018","Yamaha","Mio S","Otomatis","Bensin",1,"Indonesia",9.7
+342,"2015","Honda","Motorcycles Supra X","Manual","Bensin",1,"Indonesia",10.85
+343,"2015","Yamaha","Vega Rr","Manual","Bensin",1,"Indonesia",7.45
+344,"2016","Honda","Motorcycles Beat Pop","Otomatis","Bensin",1,"Indonesia",10.4
+345,"2018","Honda","Motorcycles Cb Verza","Manual","Bensin",1,"Indonesia",15.55
+346,"2017","Suzuki","Gsx R 150","Manual","Bensin",1,"Indonesia",18.2
+347,"2018","Yamaha","Mx King","Manual","Bensin",1,"Indonesia",13.2
+348,"2018","Yamaha","V-Ixion Lightning","Manual","Bensin",1,"Indonesia",19.5
+349,"2019","Yamaha","Nmax","Otomatis","Bensin",1,"Indonesia",26
+350,"2017","Honda","Motorcycles Supra X","Manual","Bensin",1,"Indonesia",11.85
+351,"2015","Yamaha","Yzf R15","Manual","Bensin",1,"Indonesia",19
+352,"2017","Honda","Motorcycles Vario Techno Fi","Otomatis","Bensin",1,"Indonesia",14.65
+353,"2016","Honda","Motorcycles Vario Techno 150","Otomatis","Bensin",1,"Indonesia",15.6
+354,"2019","Honda","Motorcycles Sonic R","Manual","Bensin",1,"Indonesia",16.75
+355,"2017","Honda","Motorcycles Beat Pop","Otomatis","Bensin",1,"Indonesia",10.85
+356,"2019","Yamaha","Nmax","Otomatis","Bensin",1,"Indonesia",25.95
+357,"2014","Yamaha","V-Ixion Lightning","Manual","Bensin",1,"Indonesia",14.85
+358,"2013","Honda","Motorcycles Vario Techno Fi","Otomatis","Bensin",1,"Indonesia",10.8
+359,"2018","Honda","Motorcycles Cb 150R","Manual","Bensin",1,"Indonesia",21
+360,"2013","Yamaha","V-Ixion Lightning","Manual","Bensin",1,"Indonesia",14.35
+361,"2017","Yamaha","Aerox Xi","Otomatis","Bensin",20000,"Indonesia",19
+362,"2003","Yamaha","RX King","Manual","Bensin",1,"Medan",12
+363,"2016","Yamaha","YZF R15","Manual","Bensin",999999,"Medan",25
+364,"2018","Yamaha","X-Ride","Otomatis","Bensin",1,"Indonesia",13
+365,"2018","Honda","Motorcycles Cb 150R","Manual","Bensin",1,"Indonesia",22.5
+366,"2015","Honda","Motorcycles Cb 150R","Manual","Bensin",1,"Indonesia",19
+367,"2015","Honda","Motorcycles Beat Fi","Otomatis","Bensin",1,"Indonesia",12
+368,"2018","Yamaha","Nmax","Otomatis","Bensin",1,"Indonesia",25.6
+369,"2015","Honda","Motorcycles Vario Techno 150","Otomatis","Bensin",1,"Indonesia",17
+370,"2016","Honda","Motorcycles Vario Techno 150","Otomatis","Bensin",1,"Indonesia",17
+371,"2016","Honda","Motorcycles Scoopy Fi","Otomatis","Bensin",1,"Indonesia",15.5
+372,"2018","Honda","Motorcycles Sonic R","Manual","Bensin",1,"Indonesia",16.9
+373,"2017","Yamaha","Aerox","Otomatis","Bensin",1,"Indonesia",18.5
+374,"2016","Yamaha","Nmax","Otomatis","Bensin",1,"Indonesia",23.5
+375,"2015","Honda","Motorcycles Scoopy Fi","Otomatis","Bensin",1,"Indonesia",12.8
+376,"2015","Honda","Motorcycles Beat Pop","Otomatis","Bensin",1,"Indonesia",10
+377,"2016","Honda","Motorcycles Cb 150R","Manual","Bensin",1,"Indonesia",22
+378,"2018","Honda","Motorcycles Cb Verza","Manual","Bensin",1,"Indonesia",17.5
+379,"2018","Yamaha","Yzf R15","Manual","Bensin",1,"Indonesia",27
+380,"2017","Honda","Motorcycles Supra Gtr","Manual","Bensin",1,"Indonesia",15
+381,"2015","Honda","Motorcycles Cb 150R","Manual","Bensin",1,"Indonesia",19
+382,"2015","Honda","Motorcycles Supra X","Manual","Bensin",1,"Indonesia",13
+383,"2013","Honda","Motorcycles Supra X","Manual","Bensin",1,"Indonesia",13
+384,"2018","Yamaha","V-Ixion Lightning","Manual","Bensin",1,"Indonesia",21.25
+385,"2015","Honda","Motorcycles Sonic","Manual","Bensin",2000,"Indonesia",10
+386,"1990","Honda","Motorcycles GL 125 CDi Custom...","Manual","Bensin",2e+05,"Subang",9
+387,"2012","Yamaha","Jupiter MX","Manual","Bensin",65000,"Indonesia",7.6
+388,"2018","Honda","Motorcycles PCX","Otomatis","Bensin",10600,"DKI Jakarta",25.9
+389,"2018","Suzuki","Satria Fu","Manual","Bensin",1,"Indonesia",15.8
+390,"2018","Honda","Motorcycles Cb 150R","Manual","Bensin",1,"Indonesia",22
+391,"2018","Honda","Motorcycles Beat Fi","Otomatis","Bensin",1,"Indonesia",13.95
+392,"2018","Honda","Motorcycles Cbr 150R","Manual","Bensin",1,"Indonesia",29.35
+393,"2016","Kawasaki","Ninja 250 Fi","Manual","Bensin",1,"Indonesia",47.5
+394,"2013","Suzuki","Satria Fu","Manual","Bensin",1,"Indonesia",9.7
+395,"2018","Suzuki","Nex Ii","Otomatis","Bensin",1,"Indonesia",10.1
+396,"2018","Suzuki","Address Cw Fi","Otomatis","Bensin",1,"Indonesia",10.2
+397,"2018","Suzuki","Nex Ii","Otomatis","Bensin",1,"Indonesia",9.5
+398,"2018","Suzuki","Nex Ii","Otomatis","Bensin",1,"Indonesia",9.5
+399,"2009","Honda","Motorcycles Supra X","Manual","Bensin",1,"Indonesia",6.5
+400,"2014","Honda","Motorcycles Revo Cw","Manual","Bensin",1,"Indonesia",8.3
+401,"2018","Honda","Motorcycles Supra X","Manual","Bensin",1,"Indonesia",13.7
+402,"2018","Suzuki","GSX / Katana","Manual","Bensin",3100,"Indonesia",21
+403,"2011","Suzuki","Satria F150","Manual","Bensin",788477,"Indonesia",9
+404,"1100","2012","Ducati Monster Evo","Manual","Bensin",20000,"Bekasi",220
+405,"2003","Honda","Motorcycles CB GL","Manual","Bensin",1000,"Indonesia",14
+406,"2009","Honda","Motorcycles Supra X","Manual","Bensin",1,"Indonesia",6.3
+407,"2015","Honda","Motorcycles Cbr 150R","Manual","Bensin",1,"Indonesia",21
+408,"2015","Yamaha","V-Ixion Movistar","Otomatis","Bensin",1,"Indonesia",19
+409,"2018","Honda","Motorcycles Vario 125","Otomatis","Bensin",1,"Indonesia",18
+410,"2015","Honda","Motorcycles Beat Fi","Otomatis","Bensin",1,"Indonesia",11.8
+411,"2017","Honda","Motorcycles Vario Techno Fi","Otomatis","Bensin",1,"Indonesia",16.8
+412,"2010","Yamaha","Mio Soul","Otomatis","Bensin",1,"Indonesia",5
+413,"2003","Yamaha","Rx King","Manual","Bensin",1,"Indonesia",9
+414,"2015","Yamaha","V-Ixion Lightning","Manual","Bensin",1,"Indonesia",17.5
+415,"2015","Honda","Motorcycles Vario Techno Fi","Otomatis","Bensin",1,"Indonesia",15.8
+416,"2015","Honda","Motorcycles Vario Techno Fi","Otomatis","Bensin",1,"Indonesia",12.8
+417,"2018","Honda","Motorcycles Vario 150","Otomatis","Bensin",1,"Indonesia",19.5
+418,"2018","Honda","Motorcycles Vario 150","Otomatis","Bensin",1,"Indonesia",19.8
+419,"2018","Honda","Motorcycles Vario 125 Fi","Otomatis","Bensin",1,"Indonesia",18.5
+420,"2018","Yamaha","Mio M3","Otomatis","Bensin",1,"Indonesia",11.5
+421,"2011","Kawasaki","Ninja Ss","Manual","Bensin",1,"Indonesia",16.5
+422,"2016","Honda","Motorcycles Beat Fi","Otomatis","Bensin",1,"Indonesia",11.3
+423,"2014","Honda","Motorcycles Vario Techno Fi","Otomatis","Bensin",1,"Indonesia",12.8
+424,"2018","Honda","Motorcycles Vario 125 Fi","Otomatis","Bensin",1,"Indonesia",17.8
+425,"2019","Honda","Motorcycles Beat Fi","Otomatis","Bensin",1,"Indonesia",15
+426,"2017","Honda","Motorcycles Vario Techno 150","Otomatis","Bensin",1,"Indonesia",17.7
+427,"2018","Honda","Motorcycles Vario Techno 150","Otomatis","Bensin",1,"Indonesia",18.8
+428,"2015","Honda","Motorcycles Vario Techno 150","Otomatis","Bensin",1,"Indonesia",15.7
+429,"2014","Honda","Motorcycles Cb 150R","Manual","Bensin",1,"Indonesia",14.8
+430,"2017","Honda","Motorcycles Revo Fi","Manual","Bensin",1,"Indonesia",11
+431,"2017","Honda","Motorcycles CBR 150R","Manual","Bensin",36500,"Indonesia",25
+432,"2013","Kawasaki","KLX","Otomatis","Bensin",5579,"Bogor",23
+433,"2018","KTM","Duke 390","Manual","Bensin",300,"Bandung",98
+434,"2008","Harley-Davidson","Street","Manual","Bensin",17000,"Bogor",245
+435,"2012","Yamaha","Byson","Manual","Bensin",1," Indonesia",7
+436,"2019","Honda","Motorcycles Scoopy Esp","Otomatis","Bensin",1,"Indonesia",15
+437,"2018","Honda","Motorcycles Vario Techno Fi","Otomatis","Bensin",1,"Indonesia",16.5
+438,"2018","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",12.5
+439,"2017","Honda","Motorcycles Vario Techno Fi","Otomatis","Bensin",1,"Indonesia",11.5
+440,"2010","Honda","Motorcycles Supra X","Manual","Bensin",1,"Indonesia",7.8
+441,"2008","Honda","Motorcycles Supra X","Manual","Bensin",1,"Indonesia",7.8
+442,"2012","Honda","Motorcycles Vario Techno Fi","Otomatis","Bensin",1,"Indonesia",10
+443,"2019","Honda","Motorcycles Vario Techno 150","Otomatis","Bensin",1,"Indonesia",17
+444,"2019","Honda","Motorcycles Supra X","Manual","Bensin",1,"Indonesia",14
+445,"2013","Yamaha","Jupiter Mx","Manual","Bensin",1,"Indonesia",6.5
+446,"2017","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",12.25
+447,"2018","Honda","Motorcycles Beat Street","Otomatis","Bensin",1,"Indonesia",13.5
+448,"2019","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",13
+449,"2019","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",14
+450,"2013","Honda","Motorcycles Beat Fi","Otomatis","Bensin",1,"Indonesia",8.5
+451,"2008","Honda","Motorcycles Revo","Manual","Bensin",1,"Indonesia",5.2
+452,"2013","Honda","Motorcycles Beat Fi","Otomatis","Bensin",1,"Indonesia",8.4
+453,"2018","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",13
+454,"2017","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",11.25
+455,"2015","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",8
+456,"2015","Honda","Motorcycles Vario Techno Fi","Otomatis","Bensin",1,"Indonesia",11.75
+457,"2018","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",13.5
+458,"2018","Honda","Motorcycles Sonic","Manual","Bensin",1,"Indonesia",15
+459,"2015","Kawasaki","ER-6n ABS","Manual","Bensin",10000,"Kota Jkt Utara",100
+460,"2016","Honda","Motorcycles Vario cbs iss","Manual","Bensin",50000,"Bekasi",13.2
+461,"2013","Piaggio","Vespa","Otomatis","Bensin",9000,"Kota Jakarta Timur",21
+462,"2010","Yamaha","Scorpio","Manual","Bensin",5000,"Kota Tgr. Sel.",27
+463,"2015","Honda","Motorcycles Revo","Manual","Bensin",14800,"Indonesia",8
+464,"2015","Yamaha","NMax","Otomatis","Bensin",31000,"Indonesia",19.5
+465,"1973","Honda","Motorcycles S90","Manual","Bensin",30000,"Bekasi",10
+466,"1993","Piaggio","Excel","Manual","Bensin",6e+05,"Indonesia",10
+467,"2018","Yamaha","Aerox 155 S","Otomatis","Bensin",6500,"Cimahi",23.8
+468,"2015","Kawasaki","KLX 150","Manual","Bensin",9900,"Kota Jakarta Selatan",20
+469,"2015","Yamaha","YZF R15","Manual","Bensin",10000,"Indonesia",18.5
+470,"2017","Yamaha","N-Max Non ABS","Otomatis","Bensin",30000,"Bekasi",19.5
+471,"2015","Yamaha","N-Max ABS","Otomatis","Bensin",14700,"Bandung",22.65
+472,"2011","Honda","Motorcycles Spacy","Otomatis","Bensin",31000,"Bekasi",6.25
+473,"2012","Ducati","800 monster","Manual","Bensin",17400,"Kota Jakarta Selatan",165
+474,"2003","Yamaha","Scorpio Kotak","Manual","Bensin",80000,"ID",12.5
+475,"2016","Yamaha","Soul GT 125","Otomatis","Bensin",14000,"Indonesia",10
+476,"2016","Honda","Motorcycles CBR 150R","Manual","Bensin",7951,"Bandung",23
+477,"2018","Yamaha","Lexi","Otomatis","Bensin",4783,"Indonesia",16.5
+478,"2016","Suzuki","Satria Fu","Manual","Bensin",1,"Indonesia",12
+479,"2018","Yamaha","Nmax","Otomatis","Bensin",1," Indonesia",25.9
+480,"2014","Yamaha","Xeon Rc","Otomatis","Bensin",1,"Indonesia",7.5
+481,"2015","Kawasaki","Ninja Rr","Manual","Bensin",1,"Indonesia",31.7
+482,"2017","Suzuki","Gsx R 150","Manual","Bensin",1,"Indonesia",20.8
+483,"2014","Honda","Motorcycles Beat Fi","Otomatis","Bensin",1,"Indonesia",10.7
+484,"2018","Yamaha","Mio M3","Otomatis","Bensin",1,"Indonesia",11.6
+485,"2017","Honda","Motorcycles Beat Street","Otomatis","Bensin",1,"Indonesia",14.2
+486,"2017","Honda","Motorcycles Cb 150R","Manual","Bensin",1,"Indonesia",19.2
+487,"2017","Kawasaki","Klx 150","Manual","Bensin",1,"Indonesia",28.5
+488,"2018","Honda","Motorcycles Sonic","Manual","Bensin",1,"Indonesia",15.9
+489,"2010","Yamaha","Jupiter Z","Manual","Bensin",1,"Indonesia",6.95
+490,"2018","Yamaha","Aerox Vva","Otomatis","Bensin",1,"Indonesia",20.4
+491,"2014","Kawasaki","Ninja R","Manual","Bensin",1,"Indonesia",23.5
+492,"2018","Honda","Motorcycles Pcx","Otomatis","Bensin",1,"Indonesia",30.2
+493,"2017","Honda","Motorcycles Sonic","Manual","Bensin",1,"Indonesia",17.1
+494,"2011","Yamaha","Mio Sporty","Otomatis","Bensin",1,"Indonesia",5.8
+495,"2018","Yamaha","Mio M3","Otomatis","Bensin",1,"Indonesia",11.2
+496,"2018","Honda","Motorcycles Scoopy Fi","Otomatis","Bensin",1,"Indonesia",16.7
+497,"2016","Yamaha","Yzf R15","Manual","Bensin",1,"Indonesia",20
+498,"2014","Honda","Motorcycles Beat Fi","Otomatis","Bensin",1,"Indonesia",6.9
+499,"2018","Suzuki","Address","Otomatis","Bensin",1,"Indonesia",9.4
+500,"2016","Honda","Motorcycles Beat Pop","Otomatis","Bensin",1,"Indonesia",10.9
+501,"2018","Yamaha","Fino Sporty Fi","Otomatis","Bensin",1,"Indonesia",13
+502,"2017","Kawasaki","Klx 150 Bf","Manual","Bensin",1,"Indonesia",30
+503,"2018","Suzuki","Satria Fu","Manual","Bensin",1,"Indonesia",16.3
+504,"2017","Honda","Motorcycles Vario Techno 150","Otomatis","Bensin",1,"Indonesia",18
+505,"2018","Yamaha","Aerox Vva","Otomatis","Bensin",1,"Indonesia",20.9
+506,"2014","Kawasaki","Ninja Rr Mono Sl","Manual","Bensin",1,"Indonesia",26.8
+507,"2017","Honda","Motorcycles Beat Esp","Manual","Bensin",1,"Indonesia",14.5
+508,"2017","Honda","Motorcycles Beat Esp","Manual","Bensin",1,"Indonesia",14.5
+509,"2018","Honda","Motorcycles Beat Pop","Otomatis","Bensin",1,"Indonesia",14.5
+510,"2018","Honda","Motorcycles Vario 150","Otomatis","Bensin",1,"Indonesia",21
+511,"2017","Honda","Motorcycles Beat Street","Manual","Bensin",1,"Indonesia",14.5
+512,"2018","Honda","Motorcycles Supra X","Otomatis","Bensin",1,"Indonesia",13.5
+513,"2014","Yamaha","Mio Gt","Manual","Bensin",1,"Indonesia",9
+514,"2017","Honda","Motorcycles Vario 150","Otomatis","Bensin",1,"Indonesia",17.5
+515,"2013","Yamaha","Mio Gt","Manual","Bensin",1,"Indonesia",8
+516,"2018","Honda","Motorcycles Scoopy","Otomatis","Bensin",16000,"Indonesia",16.8
+517,"2018","Kawasaki","Ninja 250 SE ABS","Manual","Bensin",2612,"Mataram",63.5
+518,"2015","Piaggio","Primavera 150","Otomatis","Bensin",36000,"Indonesia",31
+519,"2005","KTM","990 Super Duke","Manual","Bensin",14000,"Kota Jakarta Timur",250
+520,"1991","Honda","Motorcycles Astrea Grand Bulus","Manual","Bensin",70000,"Kabupaten Sragen",4
+521,"2016","Viar","Karya long 200","Manual","Bensin",8000,"Sidoarjo",18
+522,"2017","Yamaha","N-Max Non ABS","Otomatis","Bensin",7000,"Bekasi",21.5
+523,"2018","Piaggio","Sprint","Otomatis","Bensin",5800,"Bandung",41.5
+524,"2017","Yamaha","YZF R15","Manual","Bensin",20000,"Kota Bks",26.5
+525,"2017","Honda","Motorcycles Beat All New Fi","Otomatis","Bensin",25000,"Indonesia",12
+526,"2010","Kawasaki","Ninja RR","Manual","Bensin",10000,"Bogor",17.5
+527,"2007","Suzuki","Thunder","Otomatis","Bensin",1000,"Bogor",3
+528,"2011","KTM","Milan TM125","Otomatis","Bensin",5800,"Medan",3
+529,"2014","Kawasaki","Ninja 150RR SE","Manual","Bensin",10420,"Indonesia",27
+530,"2015","Honda","Motorcycles CBR 150R","Manual","Bensin",26000,"Jakarta Pusat",22
+531,"2014","Honda","Motorcycles Revo Fit","Manual","Bensin",1,"Indonesia",6.3
+532,"2009","Yamaha","Mio","Otomatis","Bensin",1,"Indonesia",4.2
+533,"2009","Suzuki","Skydrive","Otomatis","Bensin",1,"Indonesia",4.5
+534,"2015","Honda","Motorcycles Revo Fit","Manual","Bensin",1,"Indonesia",6.5
+535,"2010","Honda","Motorcycles Vario","Otomatis","Bensin",1,"Indonesia",4
+536,"2010","Honda","Motorcycles Vario","Otomatis","Bensin",1,"Indonesia",3.5
+537,"2011","Yamaha","Mio","Otomatis","Bensin",1,"Indonesia",3.5
+538,"2011","Yamaha","Mio Soul","Otomatis","Bensin",1,"Indonesia",4.2
+539,"2017","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",13
+540,"2010","Honda","Motorcycles Revo Absolute","Manual","Bensin",1,"Indonesia",4.3
+541,"2011","Yamaha","Mio","Otomatis","Bensin",1,"Indonesia",4
+542,"2011","Yamaha","Mio","Otomatis","Bensin",1,"Indonesia",4.5
+543,"2010","Yamaha","Mio Soul","Otomatis","Bensin",1,"Indonesia",3.5
+544,"2012","Yamaha","Vega Zr","Manual","Bensin",1,"Indonesia",3.5
+545,"2008","Yamaha","Mio","Otomatis","Bensin",1,"Indonesia",3.5
+546,"2012","Yamaha","Vega Zr","Manual","Bensin",1,"Indonesia",3.6
+547,"2012","Honda","Motorcycles Revo Fit","Manual","Bensin",1,"Indonesia",5.5
+548,"2011","Honda","Motorcycles Revo","Manual","Bensin",1,"Indonesia",4.5
+549,"2009","Honda","Motorcycles Beat","Otomatis","Bensin",1,"Indonesia",7.5
+550,"2009","Yamaha","Mio Soul","Otomatis","Bensin",1,"Indonesia",4.5
+551,"2010","Yamaha","Mio","Otomatis","Bensin",1,"Indonesia",3.9
+552,"2015","Honda","Motorcycles Beat Pop","Otomatis","Bensin",1,"Indonesia",9.5
+553,"2011","Suzuki","Satria Fu","Manual","Bensin",1,"Indonesia",6.8
+554,"2015","Honda","Motorcycles Beat Pop","Otomatis","Bensin",1,"Indonesia",9.5
+555,"2013","Yamaha","V-ixion","Manual","Bensin",50686,"Indonesia",12
+556,"2015","Yamaha","YZF R25 MOVISTAR Edition","Manual","Bensin",5500,"Indonesia",38.5
+557,"2018","Cleveland","CycleWerks","Manual","Bensin",800,"Indonesia",48
+558,"2008","Yamaha","Jupiter Z","Manual","Bensin",1,"Indonesia",5
+559,"1975","Honda","Motorcycles C70","Manual","Bensin",17500000,"ID",13.5
+560,"2013","Honda","Motorcycles Vario Techno Fi","Otomatis","Bensin",23417,"Semarang",13.5
+561,"2011","Yamaha","Mio Soul","Otomatis","Bensin",80000,"Indonesia",7.5
+562,"2003","Honda","Motorcycles Karisma X","Manual","Bensin",1,"Indonesia",2.5
+563,"2011","Honda","Motorcycles Blade","Manual","Bensin",1,"Indonesia",6.5
+564,"2017","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",12.5
+565,"2018","Yamaha","Mio M3","Otomatis","Bensin",1,"Indonesia",8.8
+566,"2017","Honda","Motorcycles Beat Street","Otomatis","Bensin",1,"Indonesia",12.5
+567,"2010","Honda","Motorcycles Vario","Otomatis","Bensin",1,"Indonesia",4
+568,"2016","Honda","Motorcycles Scoopy Esp","Otomatis","Bensin",1,"Indonesia",10
+569,"2010","Honda","Motorcycles Vario","Otomatis","Bensin",1,"Indonesia",5.5
+570,"2013","Honda","Motorcycles Cb 150","Manual","Bensin",1,"Indonesia",11.2
+571,"2013","Yamaha","Jupiter Mx","Manual","Bensin",1,"Indonesia",8.3
+572,"2011","Yamaha","Mio","Otomatis","Bensin",1,"Indonesia",4.2
+573,"2013","Honda","Motorcycles Vario Techno Fi","Otomatis","Bensin",1,"Indonesia",11.5
+574,"2014","Yamaha","Mio Gt","Otomatis","Bensin",1,"Indonesia",6
+575,"2017","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",12.5
+576,"2014","Honda","Motorcycles Beat Fi","Otomatis","Bensin",1,"Indonesia",7
+577,"2018","Honda","Motorcycles Beat Pop","Otomatis","Bensin",1,"Indonesia",11.5
+578,"2014","Honda","Motorcycles Beat Fi","Otomatis","Bensin",1,"Indonesia",7
+579,"2015","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",8.8
+580,"2012","Yamaha","Vega Zr","Manual","Bensin",1,"Indonesia",4.8
+581,"2017","Honda","Motorcycles Vario Techno Fi","Otomatis","Bensin",1,"Indonesia",15
+582,"2010","Honda","Motorcycles Beat","Otomatis","Bensin",1,"Indonesia",4.5
+583,"2010","Honda","Motorcycles Beat","Otomatis","Bensin",1,"Indonesia",4.5
+584,"2010","Honda","Motorcycles Vario","Otomatis","Bensin",1,"Indonesia",4.5
+585,"2017","Yamaha","YZF R15","Manual","Bensin",26000,"Indonesia",23
+586,"2018","Honda","Motorcycles CBR 150R","Manual","Bensin",6000,"Bekasi",26.5
+587,"2019","Honda","Motorcycles Beat All New Fi","Manual","Bensin",110633,"Tangerang",13.5
+588,"2018","Honda","Motorcycles Beat Pop","Manual","Bensin",10234,"Tangerang",11.5
+589,"2015","Kawasaki","Z 250SL","Manual","Bensin",9100,"Jakarta Timur",24
+590,"2018","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",15.75
+591,"2018","Honda","Motorcycles Pcx","Otomatis","Bensin",1,"Indonesia",30
+592,"2018","Yamaha","Freego","Otomatis","Bensin",1,"Indonesia",18
+593,"2017","Honda","Motorcycles Scoopy Esp","Otomatis","Bensin",1,"Indonesia",17.5
+594,"2019","Honda","Motorcycles Vario","Otomatis","Bensin",1,"Indonesia",22
+595,"2011","Honda","Motorcycles Beat","Otomatis","Bensin",1,"Indonesia",7.5
+596,"2019","Honda","Motorcycles Revo X","Manual","Bensin",1,"Indonesia",13.5
+597,"2007","Honda","Motorcycles Supra X","Manual","Bensin",1,"Indonesia",7.5
+598,"2013","Yamaha","Xeon Rc","Otomatis","Bensin",1,"Indonesia",9
+599,"2013","Yamaha","Mio Gt","Otomatis","Bensin",1,"Indonesia",8
+600,"2018","Honda","Motorcycles Vario","Otomatis","Bensin",1,"Indonesia",21
+601,"2017","Honda","Motorcycles Vario","Otomatis","Bensin",1,"Indonesia",18.5
+602,"2018","Honda","Motorcycles Scoopy Esp","Otomatis","Bensin",1,"Indonesia",18.5
+603,"2018","Honda","Motorcycles Beat Street","Otomatis","Bensin",1,"Indonesia",15.25
+604,"2012","Honda","Motorcycles Beat","Otomatis","Bensin",1,"Indonesia",8
+605,"2017","Suzuki","Gsx 150","Manual","Bensin",1,"Indonesia",20
+606,"2019","Honda","Motorcycles Beat Street","Otomatis","Bensin",1,"Indonesia",16.55
+607,"2017","Yamaha","YZF R15","Manual","Bensin",800,"Indonesia",26
+608,"2009","Honda","Motorcycles CS One","Manual","Bensin",12480,"Indonesia",5.9
+609,"2014","Honda","Motorcycles CBR 150","Manual","Bensin",10000,"Indonesia",20
+610,"1969","Piaggio","Vespa super","Manual","Bensin",21929,"Kota Jakarta Pusat",25
+611,"2013","Kawasaki","ER-6n","Manual","Bensin",17800,"Indonesia",74.5
+612,"2015","Honda","Motorcycles CB sport","Manual","Bensin",5e+05,"Jakarta Timur",15.5
+613,"2019","Honda","Motorcycles CBR STD","Manual","Bensin",10004,"Bekasi",25
+614,"2005","Yamaha","Jupiter Z","Manual","Bensin",19515,"Kota Bks",4.8
+615,"2010","Honda","Motorcycles Scoopy","Otomatis","Bensin",25000,"Kediri",9.5
+616,"2014","Yamaha","V-ixion NVL","Manual","Bensin",29700,"Indonesia",11
+617,"2017","Honda","Motorcycles Vario 150 CBS ISS","Otomatis","Bensin",25000,"Indonesia",16.5
+618,"2018","Yamaha","NMax Non ABS Take Over","Otomatis","Bensin",13000,"Indonesia",13
+619,"2008","Honda","Motorcycles Revo","Manual","Bensin",89000,"Indonesia",4.3
+620,"2013","Kawasaki","Ninja RR","Manual","Bensin",2000,"Indonesia",23
+621,"1970","Piaggio","Vespa Sprint","Manual","Bensin",20000,"Indonesia",21
+622,"2004","Suzuki","Satria","Manual","Bensin",11111,"Indonesia",17
+623,"2015","Honda","Motorcycles Beat OVER KREDIT","Otomatis","Bensin",5000,"Indonesia",7.6
+624,"2017","Kawasaki","Z 125","Manual","Bensin",6000,"Indonesia",23
+625,"2013","Honda","Motorcycles Mega Pro","Manual","Bensin",23000,"Indonesia",11
+626,"2014","Piaggio","LXV 150","Otomatis","Bensin",30000,"Bekasi",23
+627,"2016","Yamaha","NMax","Otomatis","Bensin",3200,"Indonesia",23.5
+628,"2015","Kawasaki","Vulcan S","Manual","Bensin",5700,"Depok",140
+629,"2008","Honda","Motorcycles Supra FIT X","Manual","Bensin",2500,"Garut",4.5
+630,"2017","Yamaha","Aerox S","Otomatis","Bensin",75000,"Surabaya",23
+631,"2011","Honda","Motorcycles Supra X 125R","Otomatis","Bensin",7882,"Indonesia",8
+632,"2019","Benelli","TNT 250","Manual","Bensin",3000,"Indonesia",51
+633,"1992","Honda","Motorcycles Astrea grand bulus","Manual","Bensin",80000,"Kabupaten Sragen",5.5
+634,"2019","Honda","Motorcycles Beat All New Fi","Otomatis","Bensin",9000,"Bekasi",13.2
+635,"2009","Yamaha","Jupiter MX","Otomatis","Bensin",37000,"Bekasi",5.2
+636,"2010","Honda","Motorcycles Tiger","Manual","Bensin",28277,"Indonesia",18
+637,"2018","Honda","Motorcycles CBR 250 RR ABS","Manual","Gas",4000,"Jakarta Barat",56
+638,"2014","MV","Agusta F4","Manual","Bensin",7300,"Kota Jkt Utara",420
+639,"2017","Yamaha","X-MAX ABS","Otomatis","Bensin",7000,"Bogor",48
+640,"2013","Piaggio","LX 150","Otomatis","Bensin",22000,"Kota Bks",23.5
+641,"2016","Kawasaki","KLX 150BF SE","Manual","Bensin",17000,"Tangerang",25.5
+642,"2012","Honda","Motorcycles Mega Pro","Manual","Bensin",60000,"Semarang",10
+643,"2013","Kawasaki","Ninja 150R","Manual","Bensin",31000,"Indonesia",17
+644,"2015","Honda","Motorcycles Beat Fi","Otomatis","Bensin",1,"Indonesia",9
+645,"2014","Honda","Motorcycles Beat Fi","Otomatis","Bensin",1,"Indonesia",6
+646,"2019","Honda","Motorcycles Scoopy Esp","Otomatis","Bensin",1,"Indonesia",17.5
+647,"2017","Honda","Motorcycles Vario","Otomatis","Bensin",1,"Indonesia",13.5
+648,"2017","Honda","Motorcycles Supra X","Manual","Bensin",1,"Indonesia",10
+649,"2009","Yamaha","Jupiter Mx","Manual","Bensin",1,"Indonesia",4.5
+650,"2018","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",13.5
+651,"2018","Honda","Motorcycles Vario 125","Otomatis","Bensin",1,"Indonesia",15.5
+652,"2018","Honda","Motorcycles Pcx","Otomatis","Bensin",1,"Indonesia",27
+653,"2018","Honda","Motorcycles Scoopy Esp","Otomatis","Bensin",1,"Indonesia",16
+654,"2011","Honda","Motorcycles Supra X","Manual","Bensin",1,"Indonesia",7
+655,"2019","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",14
+656,"2018","Honda","Motorcycles Scoopy Esp","Otomatis","Bensin",1,"Indonesia",16
+657,"2019","Honda","Motorcycles Sonic","Manual","Bensin",1,"Indonesia",15.5
+658,"2018","Honda","Motorcycles Beat Street","Otomatis","Bensin",1,"Indonesia",13
+659,"2018","Honda","Motorcycles Scoopy Esp","Otomatis","Bensin",1,"Indonesia",16.5
+660,"2017","Honda","Motorcycles Vario 150","Otomatis","Bensin",1,"Indonesia",15
+661,"2017","Honda","Motorcycles Supra X New 125 FI","Manual","Bensin",9400,"Indonesia",12.5
+662,"2015","Honda","Motorcycles Vario Techno 150","Otomatis","Bensin",93210,"Sukabumi",13
+663,"2016","Yamaha","Xabre","Otomatis","Bensin",27000,"Indonesia",19
+664,"1977","Piaggio","Vespa Super","Manual","Bensin",123456,"Tangerang",12.5
+665,"2004","Piaggio","Vespa PX 150 exclusive-2","Manual","Bensin",123456,"Tangerang",19.5
+666,"2015","Kawasaki","Ninja KRR 150R","Manual","Bensin",17000,"Jakarta Timur",27
+667,"2015","Yamaha","NMax ABS","Otomatis","Bensin",33263,"Kota Jakarta Selatan",25
+668,"2016","Yamaha","YZF R25","Manual","Bensin",24000,"Indonesia",40
+669,"2012","Honda","Motorcycles Vario Absolute","Otomatis","Bensin",30000,"Indonesia",9.5
+670,"2016","Kawasaki","Ninja","Manual","Bensin",1670,"Indonesia",42
+671,"2017","KTM","RC","Manual","Bensin",3800,"Indonesia",39
+672,"2019","Yamaha","NMax","Otomatis","Bensin",5314,"Kota Jakarta Timur",25.5
+673,"2019","Yamaha","FreeGo S Non ABS","Otomatis","Bensin",733,"Bekasi",15.5
+674,"2013","Honda","Motorcycles CBR 150R CBU","Manual","Bensin",11000,"Jakarta Pusat",15.5
+675,"2016","Honda","Motorcycles Vario Techno 150","Otomatis","Bensin",21000,"Depok",14.5
+676,"2017","Honda","Motorcycles Vario 125","Otomatis","Bensin",18500,"Surabaya",16.25
+677,"2008","Honda","Motorcycles Beat","Manual","Bensin",4500,"Indonesia",8.5
+678,"2013","Yamaha","Mio soul gt","Otomatis","Bensin",25,"Indonesia",7.5
+679,"2018","Kawasaki","W175 SE","Manual","Bensin",9000,"Indonesia",27
+680,"2013","Kawasaki","Ninja 250 fi","Manual","Bensin",27000,"Indonesia",34.9
+681,"2017","Honda","Motorcycles Vario 150","Otomatis","Bensin",10000,"Indonesia",16.5
+682,"2018","Yamaha","NMax","Otomatis","Bensin",5500,"Indonesia",24.5
+683,"2012","Ducati","Monster 795","Manual","Bensin",17400,"Kota Jakarta Selatan",165
+684,"2015","BMW","R nine T rninet","Manual","Bensin",3600,"Kota Jakarta Selatan",593
+685,"2018","Yamaha","Aerox S ABS","Otomatis","Bensin",9000,"Jakarta Timur",23.5
+686,"2017","Royal","Enfield Classic","Manual","Bensin",45000,"Kota Jakarta Selatan",67
+687,"2011","Harley-Davidson","Sportster","Manual","Bensin",6000,"Kota Jakarta Selatan",215
+688,"2012","Kawasaki","ER-6f","Manual","Bensin",25000,"Depok",76.5
+689,"2018","Benelli","Motobi BS 200","Manual","Bensin",10000,"Semarang",30
+690,"2018","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",12
+691,"2015","Yamaha","Soul","Otomatis","Bensin",1,"Indonesia",11.5
+692,"2019","Honda","Motorcycles Beat Street","Otomatis","Bensin",1,"Indonesia",14
+693,"2016","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",7.5
+694,"2019","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",13
+695,"2016","Honda","Motorcycles Beat Pop","Otomatis","Bensin",1,"Indonesia",11.5
+696,"2018","Honda","Motorcycles Beat Street","Otomatis","Bensin",1,"Indonesia",12.5
+697,"2019","Honda","Motorcycles Vario","Otomatis","Bensin",1,"Indonesia",18.5
+698,"2016","Honda","Motorcycles Cbr 150","Manual","Bensin",1,"Indonesia",26
+699,"2018","Kawasaki","D-Tracker 150","Manual","Bensin",1,"Indonesia",29.5
+700,"2016","Yamaha","Nmax","Otomatis","Bensin",1,"Indonesia",28
+701,"2011","Yamaha","Mio","Otomatis","Bensin",1,"Indonesia",7.5
+702,"2019","Yamaha","V-Ixion","Manual","Bensin",1,"Indonesia",21.5
+703,"2011","Honda","Motorcycles Vario","Otomatis","Bensin",1,"Indonesia",8.5
+704,"2018","Kawasaki","Ninja 250RR Mono","Manual","Bensin",4100,"Indonesia",31
+705,"2011","Bajaj","Pulsar","Manual","Bensin",6700,"Indonesia",6.7
+706,"2011","Honda","Motorcycles Vario Techno CBS","Otomatis","Bensin",40110,"Indonesia",8
+707,"2015","Yamaha","V-ixion New Advance Moto GP ...","Manual","Bensin",76000,"Indonesia",17
+708,"2016","Kawasaki","Ninja BX250A","Manual","Bensin",14642,"Serang",40
+709,"2003","Suzuki","Satria","Manual","Bensin",80000,"Kendal",10
+710,"2005","Yamaha","Scorpio","Manual","Bensin",60000,"Indonesia",10.25
+711,"2013","Yamaha","V-ixion","Manual","Bensin",59000,"Tangerang",12.5
+712,"2014","Kawasaki","Ninja 150 RR","Manual","Bensin",18000,"Indonesia",26
+713,"2009","Honda","Motorcycles CS One 125 cc","Manual","Bensin",16042,"Indonesia",8
+714,"2017","Yamaha","V-ixion","Manual","Bensin",19000,"Indonesia",18
+715,"2005","Honda","Motorcycles CBR 150 R","Manual","Bensin",6e+05,"Indonesia",16
+716,"2016","Honda","Motorcycles CBR","Manual","Bensin",6500,"Tangerang Selatan",22
+717,"2016","Kawasaki","Ninja 250 SE Limited","Manual","Bensin",6000,"Indonesia",51
+718,"2003","Yamaha","RX135 king","Manual","Bensin",30000,"Indonesia",19
+719,"2017","Honda","Motorcycles Sonic 150 R SE","Manual","Bensin",11000,"Indonesia",14
+720,"2013","Honda","Motorcycles Vario 125 techno","Otomatis","Bensin",75604,"Indonesia",8
+721,"2014","Piaggio","GTS 3v ie","Otomatis","Bensin",42000,"Indonesia",29.5
+722,"2013","Honda","Motorcycles Vario CBS","Otomatis","Bensin",50000,"Tangerang",9.75
+723,"2017","Honda","Motorcycles Vario Techno Fi","Otomatis","Bensin",1,"Indonesia",15.2
+724,"2017","Honda","Motorcycles Scoopy Fi","Otomatis","Bensin",1,"Indonesia",16.2
+725,"2007","Yamaha","Jupiter Z","Manual","Bensin",1,"Indonesia",8
+726,"2015","Honda","Motorcycles Beat Fi","Otomatis","Bensin",1,"Indonesia",13
+727,"2014","Honda","Motorcycles Supra X","Manual","Bensin",1,"Indonesia",11.4
+728,"2016","Honda","Motorcycles Scoopy Fi","Otomatis","Bensin",1,"Indonesia",13.9
+729,"2014","Kawasaki","Klx 150","Manual","Bensin",1,"Indonesia",22.8
+730,"2016","Yamaha","Nmax","Otomatis","Bensin",1,"Indonesia",22.8
+731,"2018","Yamaha","Lexi","Otomatis","Bensin",1,"Indonesia",16.3
+732,"2017","Honda","Motorcycles Vario Techno 150","Otomatis","Bensin",1,"Indonesia",20
+733,"2015","Kawasaki","Ninja 250 Fi","Manual","Bensin",1,"Indonesia",44.95
+734,"2014","Honda","Motorcycles Supra X","Manual","Bensin",1,"Indonesia",10.8
+735,"2012","Honda","Motorcycles Supra X","Manual","Bensin",1,"Indonesia",11.8
+736,"2008","Honda","Motorcycles Supra X","Manual","Bensin",1,"Indonesia",5.9
+737,"2015","Honda","Motorcycles Beat Fi","Otomatis","Bensin",1,"Indonesia",13
+738,"2018","Honda","Motorcycles Vario 150","Otomatis","Bensin",1,"Indonesia",22
+739,"2013","Yamaha","V-Ixion Lightning","Manual","Bensin",1,"Indonesia",13.5
+740,"2018","Suzuki","Gsx R 150","Manual","Bensin",1,"Indonesia",18.5
+741,"2017","Yamaha","V-Ixion Lightning","Manual","Bensin",1,"Indonesia",18.3
+742,"2018","Honda","Motorcycles Beat Fi","Otomatis","Bensin",1,"Indonesia",13.3
+743,"2012","Yamaha","V-Ixion","Manual","Bensin",1,"Indonesia",13.5
+744,"2015","Yamaha","Mio J","Otomatis","Bensin",1,"Indonesia",10
+745,"2016","Yamaha","Jupiter Z1","Manual","Bensin",1,"Indonesia",10.5
+746,"2009","Honda","Motorcycles Vario Absolute","Otomatis","Bensin",1,"Indonesia",7
+747,"2012","Yamaha","V-Ixion","Manual","Bensin",1,"Indonesia",11.5
+748,"2018","Honda","Motorcycles PCX 150 CBS","Otomatis","Bensin",3000,"Indonesia",27
+749,"2019","Yamaha","Lexi","Otomatis","Bensin",4810,"Kota Jakarta Pusat",17.25
+750,"2018","Yamaha","YZF R15","Manual","Bensin",18000,"Indonesia",28
+751,"2015","Yamaha","Xeon GT","Otomatis","Bensin",50500,"Indonesia",8
+752,"2013","Piaggio","LX","Otomatis","Bensin",12000,"Indonesia",20
+753,"2018","Yamaha","Nmax","Otomatis","Bensin",1,"Indonesia",26.5
+754,"2011","Honda","Motorcycles Vario Techno Fi","Otomatis","Bensin",1,"Indonesia",8.8
+755,"2009","Honda","Motorcycles Supra X","Manual","Bensin",1,"Indonesia",8.9
+756,"2009","Suzuki","Satria Fu","Manual","Bensin",1,"Indonesia",6
+757,"2018","Honda","Motorcycles Sonic","Manual","Bensin",1,"Indonesia",16.8
+758,"2017","Suzuki","Satria Fu","Manual","Bensin",1,"Indonesia",14.8
+759,"2018","Yamaha","V-Ixion Lightning","Manual","Bensin",1,"Indonesia",21.35
+760,"2011","Honda","Motorcycles Supra X","Otomatis","Bensin",1,"Indonesia",11.6
+761,"2015","Honda","Motorcycles Vario Techno","Otomatis","Bensin",1,"Indonesia",15
+762,"2015","Honda","Motorcycles Scoopy Fi","Otomatis","Bensin",1,"Indonesia",12
+763,"2016","Honda","Motorcycles Vario Techno Fi","Otomatis","Bensin",1,"Indonesia",15.6
+764,"2017","Honda","Motorcycles Cb 150R","Manual","Bensin",1,"Indonesia",20.8
+765,"2018","Yamaha","Jupiter Z1","Manual","Bensin",1,"Indonesia",14
+766,"2018","Honda","Motorcycles Vario Techno Fi","Otomatis","Bensin",1,"Indonesia",17.2
+767,"2015","Honda","Motorcycles Beat Fi","Otomatis","Bensin",1,"Indonesia",10.8
+768,"2015","Honda","Motorcycles Beat Fi","Otomatis","Bensin",1,"Indonesia",11.5
+769,"2018","Yamaha","V-Ixion Lightning","Manual","Bensin",1,"Indonesia",20
+770,"2017","Honda","Motorcycles Beat Fi","Otomatis","Bensin",1,"Indonesia",13
+771,"2018","Yamaha","Yzf R15","Manual","Bensin",1,"Indonesia",28.5
+772,"2015","Honda","Motorcycles Supra X","Manual","Bensin",1,"Indonesia",11.3
+773,"2015","Honda","Motorcycles CBR 150 K45","Manual","Bensin",11000,"Indonesia",20
+774,"2016","Honda","Motorcycles CBR 150 repsol","Manual","Bensin",16867,"Bekasi",25
+775,"2018","Suzuki","GSX R 150","Manual","Bensin",3800,"Bekasi",20.9
+776,"2017","Honda","Motorcycles Scoopy fi","Otomatis","Bensin",12773,"Medan",15
+777,"2016","Honda","Motorcycles Beat","Otomatis","Bensin",30000,"Semarang",11.5
+778,"2013","Yamaha","Xeon RC","Otomatis","Bensin",75000,"Indonesia",8.3
+779,"2016","Yamaha","Mio Z","Otomatis","Bensin",35000,"Indonesia",10
+780,"2017","Yamaha","MT-01","Manual","Bensin",7000,"Indonesia",275
+781,"2014","Honda","Motorcycles CB 150R","Manual","Bensin",28000,"Bekasi",13
+782,"2014","Kawasaki","Ninja","Manual","Bensin",14000,"Kota Jakarta Timur",26.5
+783,"2018","Yamaha","NMax Non ABS","Otomatis","Bensin",16000,"Jakarta Timur",24.5
+784,"2013","Yamaha","Jupiter MX","Manual","Bensin",27000,"ID",8.2
+785,"2015","Honda","Motorcycles CB 150 cc","Manual","Bensin",23000,"Kediri",17.3
+786,"2019","Yamaha","Freego","Otomatis","Bensin",1,"Indonesia",18
+787,"2019","Yamaha","Lexi","Otomatis","Bensin",1,"Indonesia",19
+788,"2017","Honda","Motorcycles Beat Street","Otomatis","Bensin",1,"Indonesia",13.5
+789,"2017","Honda","Motorcycles Vario 125","Otomatis","Bensin",1,"Indonesia",16.5
+790,"2018","Honda","Motorcycles Scoopy Esp","Otomatis","Bensin",1,"Indonesia",18
+791,"2011","Honda","Motorcycles Spacy","Otomatis","Bensin",1,"Indonesia",7.5
+792,"2019","Yamaha","Aerox","Otomatis","Bensin",1,"Indonesia",24
+793,"2015","Honda","Motorcycles Vario Techno 150","Otomatis","Bensin",1,"Indonesia",16.4
+794,"2015","Kawasaki","Ninja R","Manual","Bensin",1,"Indonesia",26.2
+795,"2016","Yamaha","Fino","Otomatis","Bensin",1,"Indonesia",11.3
+796,"2016","Kawasaki","Ninja 250 Fi","Manual","Bensin",1,"Indonesia",46.9
+797,"2015","Honda","Motorcycles Beat Fi","Otomatis","Bensin",1,"Indonesia",11.5
+798,"2015","Yamaha","Mt-25","Manual","Bensin",1,"Indonesia",39.4
+799,"2016","Honda","Motorcycles Beat Fi","Otomatis","Bensin",1,"Indonesia",12.3
+800,"2012","Kawasaki","Er-6N","Manual","Bensin",1,"Indonesia",73
+801,"2018","Yamaha","Yzf R15","Manual","Bensin",1,"Indonesia",29.23
+802,"2019","Honda","Motorcycles Vario 125","Otomatis","Bensin",1,"Indonesia",17.9
+803,"2015","Kawasaki","Ninja R","Manual","Bensin",1,"Indonesia",25.6
+804,"2014","Kawasaki","Ninja 250 Fi","Manual","Bensin",1,"Indonesia",44.9
+805,"2018","Suzuki","Gsx R 150","Manual","Bensin",1,"Indonesia",20.7
+806,"2016","Kawasaki","Ninja 250 Fi","Manual","Bensin",1,"Indonesia",48.9
+807,"2019","Honda","Motorcycles Pcx","Otomatis","Bensin",1,"Indonesia",29.1
+808,"2016","Kawasaki","Ninja 250 Fi","Manual","Bensin",1,"Indonesia",51.4
+809,"2016","Yamaha","Mio Z","Otomatis","Bensin",1,"Indonesia",10.4
+810,"2017","Yamaha","X-Ride","Otomatis","Bensin",1,"Indonesia",12.6
+811,"2014","Honda","Motorcycles Pcx","Otomatis","Bensin",1,"Indonesia",28.4
+812,"2017","Honda","Motorcycles Cbr 150R","Manual","Bensin",1,"Indonesia",25.7
+813,"2015","Honda","Motorcycles Vario Techno 150","Otomatis","Bensin",1,"Indonesia",16.4
+814,"2015","Kawasaki","Ninja 250 Sl","Manual","Bensin",1,"Indonesia",26.8
+815,"2017","Yamaha","Fino","Otomatis","Bensin",1,"Indonesia",12.7
+816,"2018","Suzuki","Gsx R 150","Manual","Bensin",1,"Indonesia",21.7
+817,"2017","Kawasaki","Ninja 250 Fi","Manual","Bensin",1,"Indonesia",48.9
+818,"2018","Honda","Motorcycles Vario Fi","Otomatis","Bensin",1,"Indonesia",14.5
+819,"2016","Honda","Motorcycles Beat Street","Otomatis","Bensin",1,"Indonesia",13.6
+820,"2015","Kawasaki","Ninja R","Manual","Bensin",1,"Indonesia",26.2
+821,"2018","Honda","Motorcycles Vario 150","Otomatis","Bensin",1,"Indonesia",20.4
+822,"2017","Yamaha","V-Ixion Lightning","Manual","Bensin",1,"Indonesia",18.2
+823,"2005","Honda","Motorcycles Mega Pro","Manual","Bensin",450000,"Indonesia",9
+824,"2015","Kawasaki","ER-6n","Manual","Bensin",12000,"Lamongan",72
+825,"2018","Honda","Motorcycles CBR 250RR","Manual","Bensin",8460," Jakarta Barat",59
+826,"2016","Yamaha","NMax","Otomatis","Bensin",21000,"Tangerang",20
+827,"2015","Honda","Motorcycles Beat Fi","Otomatis","Bensin",1,"Indonesia",10.8
+828,"2015","Honda","Motorcycles Scoopy Fi","Otomatis","Bensin",1,"Indonesia",12.8
+829,"2014","Yamaha","Xeon Gt 125","Otomatis","Bensin",1,"Indonesia",8.1
+830,"2014","Honda","Motorcycles Scoopy Fi","Otomatis","Bensin",1,"Indonesia",12.3
+831,"2016","Honda","Motorcycles Cbr 150R","Manual","Bensin",1,"Indonesia",20.5
+832,"2017","Yamaha","Nmax","Otomatis","Bensin",1,"Indonesia",23.4
+833,"2016","Yamaha","Yzf R25","Manual","Bensin",1,"Indonesia",36.5
+834,"2013","Yamaha","Byson","Manual","Bensin",1,"Indonesia",12.4
+835,"2012","Kawasaki","Ninja 250 Fi","Manual","Bensin",1,"Indonesia",26
+836,"2009","Yamaha","Vega Zr","Manual","Bensin",1," Indonesia",5.3
+837,"2014","Honda","Motorcycles Vario Techno Fi","Otomatis","Bensin",1,"Indonesia",12.5
+838,"2016","Yamaha","Yzf R25","Manual","Bensin",1,"Indonesia",35.5
+839,"2017","Honda","Motorcycles Vario Techno 150","Otomatis","Bensin",1,"Indonesia",16.5
+840,"2018","Yamaha","Nmax","Otomatis","Bensin",1,"Indonesia",26
+841,"2016","Suzuki","Satria Fu","Manual","Bensin",1,"Indonesia",11
+842,"2014","Yamaha","V-Ixion Lightning","Manual","Bensin",1,"Indonesia",15.5
+843,"2016","Honda","Motorcycles Cbr 150R","Manual","Bensin",1,"Indonesia",23.4
+844,"2017","Honda","Motorcycles Beat Fi","Otomatis","Bensin",1,"Indonesia",12.8
+845,"2014","Kawasaki","Klx 150","Manual","Bensin",1,"Indonesia",24.8
+846,"2010","Yamaha","Scorpio","Manual","Bensin",1,"Indonesia",26
+847,"2011","Honda","Motorcycles Cbr 250R","Manual","Bensin",1,"Indonesia",24
+848,"2010","Yamaha","Mio Soul","Otomatis","Bensin",1,"Indonesia",5.8
+849,"2016","Yamaha","Yzf R15","Manual","Bensin",1,"Indonesia",20.3
+850,"2016","Yamaha","Nmax","Otomatis","Bensin",1,"Indonesia",22.5
+851,"2017","Yamaha","Yzf R15","Manual","Bensin",1,"Indonesia",28
+852,"2017","Yamaha","Yzf R15","Manual","Bensin",1,"Indonesia",27.8
+853,"2015","Yamaha","V-Ixion Lightning","Manual","Bensin",1,"Indonesia",15.8
+854,"2013","Honda","Motorcycles Scoopy Fi","Otomatis","Bensin",1,"Indonesia",10.8
+855,"2018","Yamaha","Mio Z","Otomatis","Bensin",1,"Indonesia",11
+856,"2017","Honda","Motorcycles Revo Fi","Manual","Bensin",1,"Indonesia",10.5
+857,"2007","Suzuki","Shogun Sp","Manual","Bensin",1,"Indonesia",5.5
+858,"2012","Honda","Motorcycles Vario Fi","Otomatis","Bensin",1,"Indonesia",8.25
+859,"2019","Honda","Motorcycles Revo Fi","Manual","Bensin",1,"Indonesia",11
+860,"2019","Yamaha","Lexi","Otomatis","Bensin",1,"Indonesia",17.5
+861,"2014","Honda","Motorcycles Beat Fi","Otomatis","Bensin",1,"Indonesia",8.6
+862,"2018","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",9.4
+863,"2015","Yamaha","Mio M3","Otomatis","Bensin",1,"Indonesia",6.3
+864,"2017","Kawasaki","Ninja 250 Fi","Manual","Bensin",1,"Indonesia",53.5
+865,"2018","Suzuki","Nex Ii","Otomatis","Bensin",1,"Indonesia",11.5
+866,"2015","Kawasaki","Ninja 250 Fi","Manual","Bensin",1,"Indonesia",46
+867,"2013","Honda","Motorcycles Beat Fi","Otomatis","Bensin",1,"Indonesia",7.95
+868,"2012","Suzuki","Nex","Otomatis","Bensin",1,"Indonesia",4.65
+869,"2018","Yamaha","Vega Force","Manual","Bensin",1,"Indonesia",8
+870,"2009","Yamaha","Mio","Otomatis","Bensin",1,"Indonesia",3.3
+871,"2013","Honda","Motorcycles Vario Techno Fi C...","Otomatis","Bensin",42000,"Cimahi",10.5
+872,"2011","Honda","Motorcycles Spacy","Otomatis","Bensin",35000,"Indonesia",6
+873,"2016","Kawasaki","Z 250 ABS","Manual","Bensin",3000,"Kota Tgr. Sel.",46
+874,"2015","Honda","Motorcycles CBR 150R","Manual","Bensin",36181,"Indonesia",15
+875,"2017","KTM","Duke","Manual","Bensin",500,"Indonesia",27.5
+876,"2018","Yamaha","Mio M3","Otomatis","Bensin",1,"Indonesia",10.8
+877,"2017","Honda","Motorcycles Beat Fi","Otomatis","Bensin",1,"Indonesia",13.6
+878,"2018","Honda","Motorcycles Beat Fi","Otomatis","Bensin",1,"Indonesia",14.7
+879,"2013","Honda","Motorcycles Supra X Helm In","Manual","Bensin",1,"Indonesia",12.8
+880,"2018","Honda","Motorcycles Supra X","Manual","Bensin",1,"Indonesia",13
+881,"2007","Yamaha","Jupiter Z","Otomatis","Bensin",1,"Indonesia",7.7
+882,"2017","Yamaha","Yzf R15","Manual","Bensin",1,"Indonesia",28.5
+883,"2016","Honda","Motorcycles Vario Techno Fi","Otomatis","Bensin",1,"Indonesia",16
+884,"2015","Suzuki","Satria Fu","Manual","Bensin",1,"Indonesia",11.5
+885,"2005","Yamaha","Rx King","Manual","Bensin",1," Indonesia",11.4
+886,"2013","Honda","Motorcycles Supra X","Manual","Bensin",1,"Indonesia",12.8
+887,"2018","Yamaha","Mio M3","Otomatis","Bensin",1,"Indonesia",10.2
+888,"2016","Honda","Motorcycles Vario Techno 150","Otomatis","Bensin",1,"Indonesia",16.8
+889,"2014","Honda","Motorcycles Vario Techno Fi","Otomatis","Bensin",1,"Indonesia",12.8
+890,"2018","Honda","Motorcycles Revo","Manual","Bensin",1,"Indonesia",12.8
+891,"2018","Honda","Motorcycles Supra X","Manual","Bensin",1,"Indonesia",14.5
+892,"2018","Honda","Motorcycles Beat Fi","Otomatis","Bensin",1,"Indonesia",14.8
+893,"2017","Honda","Motorcycles Beat Fi","Otomatis","Bensin",1,"Indonesia",13.7
+894,"2016","Honda","Motorcycles Scoopy Fi","Otomatis","Bensin",1,"Indonesia",15.5
+895,"2017","Honda","Motorcycles Beat Fi","Otomatis","Bensin",1,"Indonesia",13.3
+896,"2013","Honda","Motorcycles Cb 150R","Manual","Bensin",1,"Indonesia",15.5
+897,"2018","Honda","Motorcycles Beat Fi","Otomatis","Bensin",1,"Indonesia",14.2
+898,"2017","Yamaha","Nmax","Otomatis","Bensin",1,"Indonesia",23.2
+899,"2016","Honda","Motorcycles Beat Pop","Otomatis","Bensin",1,"Indonesia",10.8
+900,"2018","Honda","Motorcycles Beat Fi","Otomatis","Bensin",1,"Indonesia",14.5
+901,"2016","Honda","Motorcycles Vario Techno Fi","Otomatis","Bensin",1,"Indonesia",14.8
+902,"2018","Honda","Motorcycles Beat Fi","Otomatis","Bensin",1,"Indonesia",14.2
+903,"2015","Yamaha","Byson","Manual","Bensin",1,"Indonesia",13.6
+904,"2016","Kawasaki","Klx 150","Manual","Bensin",1,"Indonesia",28.5
+905,"2018","Yamaha","Lexi","Otomatis","Bensin",1,"Indonesia",17.8
+906,"2016","Honda","Motorcycles Vario Techno Fi","Otomatis","Bensin",1,"Indonesia",15
+907,"2014","Yamaha","V-Ixion Lightning","Manual","Bensin",1,"Indonesia",16.8
+908,"2018","Honda","Motorcycles Vario 125 Fi","Otomatis","Bensin",1,"Indonesia",18
+909,"2018","Yamaha","Mio M3","Otomatis","Bensin",1,"Indonesia",10.8
+910,"2018","Yamaha","Mio M3","Otomatis","Bensin",1,"Indonesia",11.5
+911,"2017","Yamaha","Nmax","Otomatis","Bensin",1,"Indonesia",23
+912,"2017","Yamaha","Aerox","Otomatis","Bensin",1,"Indonesia",18.8
+913,"2013","Yamaha","Vega Zr","Manual","Bensin",1,"Indonesia",8.8
+914,"2018","Yamaha","Nmax Non Abs","Otomatis","Bensin",1,"Indonesia",25.8
+915,"2018","Honda","Motorcycles Sonic","Manual","Bensin",1,"Indonesia",16.8
+916,"2013","Honda","Motorcycles Scoopy Fi","Otomatis","Bensin",1,"Indonesia",10.5
+917,"2016","Honda","Motorcycles Vario Techno Fi","Otomatis","Bensin",1,"Indonesia",17.5
+918,"2016","Honda","Motorcycles Vario Techno Fi","Otomatis","Bensin",1,"Indonesia",16.8
+919,"2015","Yamaha","Aerox","Otomatis","Bensin",1,"Indonesia",21.5
+920,"2016","Honda","Motorcycles Revo Fi","Manual","Bensin",1,"Indonesia",7.5
+921,"2011","Honda","Motorcycles Blade","Manual","Bensin",1,"Indonesia",5.5
+922,"2015","Kawasaki","Klx 150","Manual","Bensin",1,"Indonesia",19.5
+923,"2010","Yamaha","Jupiter Mx","Manual","Bensin",1,"Indonesia",4.8
+924,"2017","Honda","Motorcycles Scoopy Esp","Otomatis","Bensin",1,"Indonesia",13
+925,"2013","Honda","Motorcycles Scoopy Fi","Otomatis","Bensin",1,"Indonesia",11.5
+926,"2018","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",12
+927,"2016","Yamaha","Xabre","Manual","Bensin",1,"Indonesia",22
+928,"2016","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",10
+929,"2017","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",11
+930,"2012","Yamaha","Jupiter Mx","Manual","Bensin",1,"Indonesia",5.5
+931,"2018","Honda","Motorcycles Scoopy Esp","Otomatis","Bensin",1,"Indonesia",15
+932,"2017","KTM","Duke 200","Manual","Bensin",820,"ID",28.5
+933,"1990","Yamaha","RX Special","Manual","Bensin",15000,"Indonesia",14
+934,"2015","Piaggio","Vespa","Otomatis","Bensin",26000,"Indonesia",25
+935,"2013","Suzuki","Satria F150","Manual","Bensin",61000,"Indonesia",8
+936,"2017","Yamaha","YZF R15 Movistar Livery","Manual","Bensin",6452,"Bandung",27
+937,"2017","Yamaha","X-MAX","Otomatis","Bensin",3800,"Kota Jakarta Barat",48
+938,"2017","Yamaha","YZF R15 VVA","Manual","Bensin",5700,"Indonesia",23
+939,"2019","Yamaha","NMax","Otomatis","Bensin",8900,"Kota Jakarta Selatan",25.2
+940,"2014","Kawasaki","Ninja 150RR","Manual","Bensin",18000,"Indonesia",26.5
+941,"2016","Honda","Motorcycles CBR 150R","Manual","Bensin",20000,"Indonesia",21.5
+942,"2006","Harley-Davidson","Touring Ultra Clasi...","Manual","Bensin",22000,"Indonesia",375
+943,"2017","Honda","Motorcycles Vario All New Tec...","Otomatis","Bensin",15700,"Indonesia",17.7
+944,"2011","Honda","Motorcycles Beat","Otomatis","Bensin",26000,"Indonesia",7.1
+945,"2018","Yamaha","Lexi S","Otomatis","Bensin",7800,"Indonesia",18.5
+946,"2012","Kawasaki","Ninja 250 Fi","Manual","Bensin",22000,"Jakarta Selatan",33.9
+947,"2013","Yamaha","Mio J Teen","Otomatis","Bensin",30000,"Indonesia",6.7
+948,"2017","Piaggio","Sprint 150","Otomatis","Bensin",19000,"Kota Jakarta Timur",38
+949,"2013","Yamaha","V-ixion New Vixion Lighting NVL","Manual","Bensin",55000,"Tangerang Selatan",13
+950,"2014","Yamaha","Mio SOUL GT","Otomatis","Bensin",32000,"Kendal",6.5
+951,"2010","Yamaha","Jupiter Z","Manual","Bensin",1e+05,"Indonesia",5.3
+952,"2018","Honda","Motorcycles Vario 150","Otomatis","Bensin",1,"Indonesia",18
+953,"2018","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",12.5
+954,"2018","Honda","Motorcycles Beat Street","Otomatis","Bensin",1,"Indonesia",14.25
+955,"2019","Honda","Motorcycles Beat Street","Otomatis","Bensin",1,"Indonesia",13.5
+956,"2018","Honda","Motorcycles Cb 150R","Manual","Bensin",1,"Indonesia",19
+957,"2018","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",13
+958,"2019","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",13.5
+959,"2019","Honda","Motorcycles Vario 150","Otomatis","Bensin",1,"Indonesia",16
+960,"2019","Honda","Motorcycles CBR 250 Abs","Manual","Bensin",700,"Indonesia",63
+961,"2013","Honda","Motorcycles Beat","Otomatis","Bensin",650000,"Tangerang Selatan",6.75
+962,"2014","Kawasaki","Ninja 150RR","Manual","Bensin",15000,"Indonesia",27
+963,"2016","Honda","Motorcycles Vario","Otomatis","Bensin",1e+05,"Indonesia",11
+964,"2018","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",15.25
+965,"2017","Honda","Motorcycles Scoopy Esp","Otomatis","Bensin",1,"Indonesia",17.5
+966,"2015","Yamaha","Xeon","Otomatis","Bensin",1,"Indonesia",9.7
+967,"2011","Honda","Motorcycles Supra","Manual","Bensin",1,"Indonesia",8.5
+968,"2018","Honda","Motorcycles Blade 125","Manual","Bensin",1,"Indonesia",13.5
+969,"2018","Honda","Motorcycles Beat Esp","Otomatis","Bensin",1,"Indonesia",16.3
+970,"2018","Honda","Motorcycles Beat Street","Otomatis","Bensin",1,"Indonesia",15.5
+971,"2014","Suzuki","Satria Fu","Manual","Bensin",1,"Indonesia",10.5
+972,"2015","Honda","Motorcycles Supra X","Manual","Bensin",1,"Indonesia",11.5
+973,"2017","Honda","Motorcycles Scoopy Esp","Otomatis","Bensin",1,"Indonesia",16.5
+974,"2014","Yamaha","V-Ixion","Manual","Bensin",1,"Indonesia",13.5
+975,"2019","Honda","Motorcycles Revo","Manual","Bensin",1,"Indonesia",11.5
+976,"2014","Honda","Motorcycles Supra X 125 Helm-In","Manual","Bensin",56145,"Depok",8.2
+977,"2011","Kawasaki","Ninja 250","Manual","Bensin",9000,"ID",31
+978,"1995","Honda","Motorcycles NSR","Manual","Bensin",150000,"Indonesia",35
+979,"2016","Honda","Motorcycles CB 150R","Manual","Bensin",29000,"Indonesia",16
+980,"1992","Honda","Motorcycles Astrea Grand","Manual","Bensin",100,"Indonesia",4.8
+981,"2005","Yamaha","Vega bebek","Manual","Bensin",20000,"Tangerang Selatan",3.5
+982,"2015","Yamaha","Byson","Manual","Bensin",7538,"Indonesia",10
+983,"1979","Honda","Motorcycles GL","Manual","Bensin",53000,"Kota Jakarta Timur",5
+984,"2018","Yamaha","YZF R15","Manual","Bensin",3400,"Indonesia",27.5
+985,"2016","Yamaha","R15","Manual","Bensin",16000,"Indonesia",14
+986,"2002","Yamaha","Nouvo","Otomatis","Bensin",25000,"Indonesia",10
+987,"2015","Honda","Motorcycles CB R","Manual","Bensin",33900,"Bekasi",14.5
+988,"2016","Suzuki","Satria fi","Manual","Bensin",35000,"Indonesia",15.5
+989,"2007","Yamaha","YZF R6","Manual","Bensin",16000,"Indonesia",160
+990,"2018","Yamaha","Lexi","Otomatis","Bensin",1500,"Indonesia",18.5
+991,"2013","Kawasaki","Ninja 250fi Non abs","Manual","Bensin",24509,"Indonesia",40
+992,"2016","Yamaha","Fino","Otomatis","Bensin",16000,"Indonesia",10
+993,"2015","Honda","Motorcycles CBR","Manual","Bensin",800,"Indonesia",23
+994,"2016","Suzuki","Satria FU","Manual","Bensin",12000,"Indonesia",12
+995,"2019","Honda","Motorcycles CBR","Manual","Bensin",100,"Indonesia",30
+996,"2015","Yamaha","V-ixion vixion advance","Manual","Bensin",35000,"Tangerang Selatan",14.5
+997,"2016","Honda","Motorcycles Beat PGMFi","Otomatis","Bensin",12000,"Bantul",12
+998,"2011","Suzuki","Satria","Manual","Bensin",10000,"Indonesia",7.5
+999,"2018","Yamaha","X-MAX","Otomatis","Bensin",15000,"Indonesia",53
