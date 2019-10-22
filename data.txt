@@ -18,7 +18,7 @@
   type: table
 - path: iwanfals
   name: iwanfals
-  rows: 2614
+  rows: 86
   cols: 18
   description: The dataset about Iwan Fals songs features and lyrics
   type: table
