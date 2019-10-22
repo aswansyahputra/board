@@ -1,0 +1,22 @@
+path:
+- data.csv
+- data.rds
+rows: 493
+cols: 14
+columns:
+  title: character
+  author: character
+  rank_score: numeric
+  rating: numeric
+  n_reviews: numeric
+  n_pages: numeric
+  year: integer
+  first_published: integer
+  publisher: character
+  characters: character
+  language: character
+  series: character
+  setting: character
+  description: character
+description: The dataset about everlasting Indonesian books listed at Goodreads.com
+type: table
