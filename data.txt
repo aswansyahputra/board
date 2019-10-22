@@ -16,9 +16,3 @@
   cols: 14
   description: The dataset about everlasting Indonesian books listed at Goodreads.com
   type: table
-- path: iwanfals
-  name: iwanfals
-  rows: 86
-  cols: 18
-  description: The dataset about Iwan Fals songs features, descriptions, and lyrics
-  type: table
