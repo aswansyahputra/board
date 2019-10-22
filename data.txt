@@ -30,7 +30,7 @@
   type: table
 - path: usedcars
   name: usedcars
-  rows: 30270
+  rows: 30330
   cols: 8
   description: The dataset about used cars in Indonesia listed at carmudi.co.id
   type: table
