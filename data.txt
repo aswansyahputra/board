@@ -34,3 +34,9 @@
   cols: 8
   description: The dataset about used cars in Indonesia listed at carmudi.co.id
   type: table
+- path: mpg
+  name: mpg
+  rows: 234
+  cols: 11
+  description: Datasset about lalalaslas
+  type: table
