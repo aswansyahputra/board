@@ -34,3 +34,9 @@
   cols: 8
   description: The dataset about used cars in Indonesia listed at carmudi.co.id
   type: table
+- path: mobil_bekas
+  name: mobil_bekas
+  rows: 5151
+  cols: 8
+  description: Data mobil bekas dari Carmudi.co.id yang telah dilakukan pemrosesan
+  type: table
