@@ -1,0 +1,16 @@
+path:
+- data.csv
+- data.rds
+rows: 5151
+cols: 8
+columns:
+  year: numeric
+  manufacturer: character
+  type: character
+  gearshift: character
+  fuel: character
+  distance: numeric
+  city: character
+  price: numeric
+description: Data mobil bekas dari Carmudi.co.id yang telah dilakukan pemrosesan
+type: table
