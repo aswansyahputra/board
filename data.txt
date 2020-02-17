@@ -36,7 +36,7 @@
   type: table
 - path: mobil_bekas
   name: mobil_bekas
-  rows: 4977
+  rows: 4959
   cols: 8
   description: Data mobil bekas dari Carmudi.co.id yang telah dilakukan pemrosesan
   type: table
